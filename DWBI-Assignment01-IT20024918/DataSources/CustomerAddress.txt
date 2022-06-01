@@ -1,0 +1,1591 @@
+CustomerId	CustomerHomeAddress	CustomerCity	CustomerState	CustomerCountry	CustomerZipCode
+RH-19495	777 Brockton Avenue	Chicago	Illinois	United States	20851
+JR-16210	30 Memorial Drive	Suzhou	Anhui	China	20852
+CR-12730	250 Hartford Avenue	Edinburgh	Scotland	United Kingdom	20853
+KM-16375	700 Oak Street	Juárez	Chihuahua	Mexico	20854
+RH-9495	66-4 Parkhurst Rd	Soyapango	San Salvador	El Salvador	20855
+JM-15655	591 Memorial Dr	Taipei	Taipei City	Taiwan	20856
+TS-21340	55 Brooksby Village Way	Leipzig	Saxony	Germany	20857
+MB-18085	137 Teaticket Hwy	Hamilton	Waikato	New Zealand	30845
+JW-15220	42 Fairhaven Commons Way	Sacramento	California	United States	20859
+JH-15985	374 William S Canning Blvd	Concord	North Carolina	United States	20860
+GM-14695	121 Worcester Rd	Alexandria	Virginia	United States	20861
+AJ-10780	677 Timpany Blvd	Kabul	Kabul	Afghanistan	20862
+MM-7260	337 Russell St	Jizan	Jizan	Saudi Arabia	20863
+VF-21715	295 Plymouth Street	Toledo	Parana	Brazil	30238
+PF-19120	1775 Washington St	Mudanjiang	Heilongjiang	China	30240
+BP-11185	280 Washington Street	Paris	Ile-de-France	France	30242
+TB-21175	20 Soojian Dr	Henderson	Kentucky	United States	30244
+PJ-18835	11 Jungle Road	Prato	Tuscany	Italy	30246
+JS-15685	301 Massachusetts Ave	Townsville	Queensland	Australia	30248
+RH-9555	780 Lynnway	Uvinza	Kigoma	Tanzania	30250
+AB-600	70 Pleasant Valley Street	Bytom	Silesia	Poland	30252
+SA-20830	830 Curran Memorial Hwy	Chicago	Illinois	United States	30254
+JK-15325	1470 S Washington St	Suzhou	Anhui	China	30256
+LB-16795	506 State Road	Edinburgh	Scotland	United Kingdom	30258
+NP-18325	742 Main Street	Juárez	Chihuahua	Mexico	30260
+VD-21670	72 Main St	Soyapango	San Salvador	El Salvador	30262
+PB-19210	200 Otis Street	Taipei	Taipei City	Taiwan	30264
+EB-14110	180 North King Street	Leipzig	Saxony	Germany	30266
+KF-16285	555 East Main St	Los Angeles	California	United States	30268
+BP-11230	555 Hubbard Ave-Suite 12	Surat	Gujarat	India	30270
+RR-19525	300 Colony Place	Santo Domingo	Santo Domingo	Dominican Republic	30272
+BS-11365	301 Falls Blvd	Saint-Brieuc	Brittany	France	30274
+JE-15745	36 Paramount Drive	Amarillo	Texas	United States	30276
+DP-13105	450 Highland Ave	Gold Coast	Queensland	Australia	30278
+NP-18700	1180 Fall River Avenue	Fresno	California	United States	30280
+AH-30	1105 Boston Road	Kamina	Katanga	Democratic Republic of the Congo	30282
+DM-13015	100 Charlton Road	New York City	New York	United States	30284
+GT-14635	262 Swansea Mall Dr	Burlington	North Carolina	United States	30286
+PO-18865	333 Main Street	Stockton-on-Tees	England	United Kingdom	30288
+DL-12865	550 Providence Hwy	Brisbane	Queensland	Australia	30290
+JB-16000	352 Palmer Road	Mataram	Nusa Tenggara Barat	Indonesia	30292
+BF-11005	3005 Cranberry Hwy Rt 6 28	Gorakhpur	Haryana	India	30294
+VG-21805	250 Rt 59	Thiruvananthapuram	Kerala	India	30296
+GT-14710	141 Washington Ave Extension	Huddersfield	England	United Kingdom	30298
+ZC-21910	13858 Rt 31 W	Berlin	Berlin	Germany	30300
+SC-20095	2055 Niagara Falls Blvd	Minneapolis	Minnesota	United States	30302
+EB-13840	101 Sanford Farm Shpg Center	Montreuil	Ile-de-France	France	30304
+AP-10915	297 Grant Avenue	Shouguang	Shandong	China	30306
+SW-20275	4133 Veterans Memorial Drive	Jamshedpur	Jharkhand	India	30308
+JH-15820	6265 Brockport Spencerport Rd	Paysandú	Paysandú	Uruguay	30310
+LC-16885	5399 W Genesse St	New York City	New York	United States	30312
+TG-11640	3191 County rd 10	Behshahr	Mazandaran	Iran	30314
+HR-14830	30 Catskill	Huntington Beach	California	United States	30316
+DG-3300	161 Centereach Mall	Taipei	Taipei City	Taiwan	30318
+SG-20470	3018 East Ave	Maputo	Cidade De Maputo	Mozambique	30320
+FH-14365	100 Thruway Plaza	Bhopal	Madhya Pradesh	India	30322
+GP-14740	8064 Brewerton Rd	Seattle	Washington	United States	30324
+MW-18220	5033 Transit Road	Delhi	Delhi	India	30326
+PO-18850	3949 Route 31	Geraldton	Western Australia	Australia	30328
+CS-12460	139 Merchant Place	Tallahassee	Florida	United States	30330
+KD-16495	85 Crooked Hill Road	Dhaka	Dhaka	Bangladesh	30332
+MS-17980	872 Route 13	New York City	New York	United States	30334
+KC-16675	279 Troy Road	Munster	Lower Saxony	Germany	30336
+DB-13405	2465 Hempstead Turnpike	Celle	Lower Saxony	Germany	30338
+JD-15895	6438 Basile Rowe	Wuxi	Jiangsu	China	30340
+DK-13090	25737 US Rt 11	Richmond	Virginia	United States	30342
+CS-11845	901 Route 110	Seville	Andalusía	Spain	30344
+EM-14200	2400 Route 9	Raipur	Uttarakhand	India	30346
+DW-3480	10401 Bennett Road	Gómez Palacio	Durango	Mexico	30348
+AS-10225	1818 State Route 3	Kharkiv	Kharkiv	Ukraine	30350
+ST-20530	4300 Lakeville Road	Jinan	Shandong	China	30352
+BW-1065	990 Route 5 20	Chinandega	Chinandega	Nicaragua	30354
+LA-16780	311 RT 9W	Kananga	Kasai-Occidental	Democratic Republic of the Congo	30356
+AB-10150	200 Dutch Meadows Ln	Palembang	Sumatera Selatan	Indonesia	30358
+CM-12385	100 Elm Ridge Center Dr	London	England	United Kingdom	30360
+BE-11410	1549 Rt 9	Melbourne	Victoria	Australia	30362
+SZ-20035	5360 Southwestern Blvd	Atlanta	Georgia	United States	30364
+RM-19375	103 North Caroline St	Duisburg	North Rhine-Westphalia	Germany	30366
+HG-14845	1000 State Route 36	Nanchong	Sichuan	China	30368
+DP-3105	1400 County Rd 64	Naihati	West Bengal	India	30370
+AR-10540	135 Fairgrounds Memorial Pkwy	Lille	Nord-Pas-de-Calais	France	30372
+TP-21415	2 Gannett Dr	Meknes	Meknès-Tafilalet	Morocco	30374
+AM-10705	233 5th Ave Ext	Jackson	Michigan	United States	30376
+AB-255	601 Frank Stottile Blvd	Philadelphia	Pennsylvania	United States	30378
+RP-19270	350 E Fairmount Ave	Krefeld	North Rhine-Westphalia	Germany	30380
+BK-11260	4975 Transit Rd	Bandung	Jawa Barat	Indonesia	30382
+JM-15250	579 Troy-Schenectady Road	Casablanca	Grand Casablanca	Morocco	30384
+LW-16990	5783 So Transit Road	Sydney	New South Wales	Australia	30386
+NZ-18565	7155 State Rt 12 S	Tongi	Dhaka	Bangladesh	30388
+SV-10815	425 Route 31	Suzhou	Anhui	China	30390
+SC-20695	3222 State Rt 11	Delhi	Delhi	India	30392
+NC-18625	200 Sunrise Mall	Henderson	Nevada	United States	30394
+NF-18385	43 Stephenville St	Paris	Ile-de-France	France	30396
+PM-18940	750 Middle Country Road	Montréal	Quebec	Canada	30398
+MZ-17335	470 Route 211 East	Manila	National Capital	Philippines	30400
+HM-4980	3133 E Main St	Newcastle	New South Wales	Australia	30402
+RW-19540	288 Larkin	Graz	Styria	Austria	30404
+LH-17155	41 Anawana Lake Road	Nowra	New South Wales	Australia	30406
+KM-16660	4765 Commercial Drive	Boulogne-Billancourt	Ile-de-France	France	30408
+AB-10060	1201 Rt 300	Malakoff	Ile-de-France	France	30410
+DB-13060	255 W Main St	Kinshasa	Kinshasa	Democratic Republic of the Congo	30412
+VM-21685	120 Commercial Parkway	Perth	Western Australia	Australia	30414
+DM-13525	1400 Farmington Ave	Le Bouscat	Aquitaine	France	30416
+NM-18520	161 Berlin Road	Puebla	Puebla	Mexico	30418
+RO-19780	67 Newton Rd	Augsburg	Bavaria	Germany	30420
+SB-20185	656 New Haven Ave	Nice	Provence-Alpes-Côte d'Azur	France	30422
+EM-14065	69 Prospect Hill Road	Seattle	Washington	United States	30424
+RS-19765	150 Gold Star Hwy	Medellín	Antioquia	Colombia	30426
+ON-18715	900 Boston Post Road	Gold Coast	Queensland	Australia	30428
+VS-21820	2300 Dixwell Ave	Bergen op Zoom	North Brabant	Netherlands	30430
+CM-12115	495 Flatbush Ave	Lakewood	New Jersey	United States	30432
+TB-21400	180 River Rd	Hanover	Lower Saxony	Germany	30434
+AB-10105	420 Buckland Hills Dr	Vigo	Galicia	Spain	30436
+DW-13540	1365 Boston Post Road	Sydney	New South Wales	Australia	30438
+PS-19045	1100 New Haven Road	Gaoyou	Jiangsu	China	30440
+CC-12370	315 Foxon Blvd	Los Angeles	California	United States	30442
+TC-21295	164 Danbury Rd	Bremen	Bremen	Germany	30444
+GM-14440	3164 Berlin Turnpike	Los Angeles	California	United States	30446
+SV-20815	474 Boston Post Road	Muret	Midi-Pyrénées	France	30448
+MM-17920	650 Main Ave	Zigong	Sichuan	China	30450
+JK-16120	680 Connecticut Avenue	Adelaide	South Australia	Australia	30452
+DJ-13510	220 Salem Turnpike	New York City	New York	United States	30454
+AT-10435	655 Boston Post Rd	Detroit	Michigan	United States	30456
+AB-10015	625 School Street	Adelaide	South Australia	Australia	30458
+RP-19390	80 Town Line Rd	Chelles	Ile-de-France	France	30460
+MJ-17740	465 Bridgeport Avenue	Kuantan	Pahang	Malaysia	30462
+PV-18985	235 Queen St	Harrisonburg	Virginia	United States	30464
+SB-20290	150 Barnum Avenue Cutoff	Philadelphia	Pennsylvania	United States	30466
+SM-10005	970 Torringford Street	Everett	Massachusetts	United States	30468
+KH-16330	844 No Colony Road	Quito	Pichincha	Ecuador	30470
+MP-18175	910 Wolcott St	Vadodara	Gujarat	India	30472
+LH-17020	155 Waterford Parkway No	Sanya	Hainan	China	30474
+ND-18370	515 Sawmill Road	Palembang	Sumatera Selatan	Indonesia	30476
+CR-12625	2473 Hackworth Road	Bangkok	Bangkok	Thailand	30478
+GM-14680	630 Coonial Promenade Pkwy	San Diego	California	United States	30480
+RA-19945	2643 Hwy 280 West	Tasikmalaya	Jawa Barat	Indonesia	30482
+BW-11110	540 West Bypass	Guaymas	Sonora	Mexico	30484
+RF-19735	5560 Mcclellan Blvd	Wuhan	Hubei	China	30486
+AG-10675	1450 No Brindlee Mtn Pkwy	Madison	Wisconsin	United States	30488
+DM-12955	1011 US Hwy 72 East	San Diego	California	United States	30490
+KD-16270	973 Gilbert Ferry Road Se	Salto	São Paulo	Brazil	30492
+BE-11335	1717 South College Street	Treviso	Veneto	Italy	30494
+SO-20335	701 Mcmeans Ave	Hargeysa	Woqooyi Galbeed	Somalia	30496
+DK-12835	750 Academy Drive	Long Beach	California	United States	30498
+LC-7050	312 Palisades Blvd	Yogyakarta	Yogyakarta	Indonesia	30500
+CG-12520	1600 Montclair Rd	Perth	Western Australia	Australia	30502
+TB-21280	5919 Trussville Crossings Pkwy	Anshan	Liaoning	China	30504
+HG-15025	9248 Parkway East	New York City	New York	United States	30506
+AD-10180	1972 Hwy 431	Brisbane	Queensland	Australia	30508
+BP-11155	10675 Hwy 5	Dhaka	Dhaka	Bangladesh	30510
+AA-10480	2041 Douglas Avenue	Amsterdam	North Holland	Netherlands	30512
+RL-19615	5100 Hwy 31	Le Petit-Quevilly	Upper Normandy	France	30514
+CS-12505	1916 Center Point Rd	Bochum	North Rhine-Westphalia	Germany	30516
+SW-20245	1950 W Main St	Detroit	Michigan	United States	30518
+TA-21385	16077 Highway 280	Perth	Western Australia	Australia	30520
+YC-21895	1415 7Th Street South	Hamburg	Hamburg	Germany	30522
+JM-15580	626 Olive Street Sw	Houston	Texas	United States	30524
+MZ-7335	27520 Hwy 98	Mixco	Guatemala	Guatemala	30526
+JF-15295	2800 Spring Avn SW	Yonkers	New York	United States	30528
+JL-15835	969 Us Hwy 80 West	Morelia	Michoacán	Mexico	30530
+DJ-3510	3300 South Oates Street	Changchun	Jilin	China	30532
+MF-18250	4310 Montgomery Hwy	Madrid	Madrid	Spain	30534
+JE-15610	600 Boll Weevil Circle	Jeddah	Makkah	Saudi Arabia	30536
+CP-12340	3176 South Eufaula Avenue	Taipei	Taipei City	Taiwan	30538
+EH-14125	7100 Aaron Aronov Drive	Adelaide	South Australia	Australia	30540
+NC-18340	10040 County Road 48	Norman	Oklahoma	United States	30542
+JS-16030	3186 Hwy 171 North	Medan	Sumatera Utara	Indonesia	30544
+AM-10360	3100 Hough Rd	Jakarta	Jakarta	Indonesia	30546
+JF-15190	2200 South Mckenzie St	London	England	United Kingdom	30548
+JG-15160	2001 Glenn Bldv Sw	Bangkok	Bangkok	Thailand	30550
+DP-13390	340 East Meighan Blvd	Newcastle	New South Wales	Australia	30552
+AG-10330	890 Odum Road	Lancaster	Ohio	United States	30554
+GK-14620	1608 W Magnolia Ave	Surakarta	Jawa Tengah	Indonesia	30556
+NF-18475	501 Willow Lane	New York City	New York	United States	30558
+DR-12940	170 Fort Morgan Road	Beijing	Beijing	China	30560
+NB-18655	11697 US Hwy 431	London	England	United Kingdom	30562
+NM-18445	42417 Hwy 195	Tulancingo	Hidalgo	Mexico	30564
+NP-18670	1706 Military Street South	Brest	Brest	Belarus	30566
+SC-20380	1201 Hwy 31 NW	Valencia	Valenciana	Spain	30568
+PA-9060	209 Lakeshore Parkway	Charlotte	North Carolina	United States	30570
+RB-19570	2780 John Hawkins Pkwy	Zhytomyr	Zhytomyr	Ukraine	30572
+SR-20740	5335 Hwy 280 South	Argenteuil	Ile-de-France	France	30574
+RH-19510	1007 Red Farmer Drive	Talence	Aquitaine	France	30576
+LH-16750	2900 S Mem PkwyDrake Ave	Atlanta	Georgia	United States	30578
+KB-16585	11610 Memorial Pkwy South	Aurangabad	Bihar	India	30580
+EM-13810	2200 Sparkman Drive	Plaisir	Ile-de-France	France	30582
+MZ-7515	330 Sutton Rd	Melbourne	Victoria	Australia	30584
+DM-13345	6140A Univ Drive	Gorakhpur	Haryana	India	30586
+CA-11965	4206 N College Ave	Medan	Sumatera Utara	Indonesia	30588
+SC-20305	1625 Pelham South	Harrogate	England	United Kingdom	30590
+MH-18115	1801 Hwy 78 East	Phnom Penh	Phnom Penh	Cambodia	30592
+KS-16300	8551 Whitfield Ave	Mackay	Queensland	Australia	30594
+BG-11740	8650 Madison Blvd	Stockton-on-Tees	England	United Kingdom	30596
+CR-2625	145 Kelley Blvd	North Las Vegas	Nevada	United States	30598
+CB-12415	1970 S University Blvd	Jambi	Jambi	Indonesia	30600
+AP-10720	6350 Cottage Hill Road	Los Angeles	California	United States	30602
+CR-12820	101 South Beltline Highway	Moers	North Rhine-Westphalia	Germany	30604
+BF-11080	2500 Dawes Road	Newark	Delaware	United States	30606
+JM-15265	5245 Rangeline Service Rd	Townsville	Queensland	Australia	30608
+TW-21025	685 Schillinger Rd	Hamburg	Hamburg	Germany	30610
+RB-19330	3371 S Alabama Ave	Shenzhen	Guangdong	China	30612
+JA-15970	10710 Chantilly Pkwy	Launceston	Tasmania	Australia	30614
+AB-60	3801 Eastern Blvd	Lakewood	New Jersey	United States	30616
+JR-5670	6495 Atlanta Hwy	Marikina	National Capital	Philippines	30618
+MD-17350	851 Ann St	Johannesburg	Gauteng	South Africa	30620
+PK-19075	15445 Highway 24	Barakaldo	Basque Country	Spain	30622
+TP-21130	517 West Avalon Ave	New York City	New York	United States	30624
+JK-15640	5710 Mcfarland Blvd	Providence	Rhode Island	United States	30626
+CD-11920	2453 2Nd Avenue East	Santo Domingo	Santo Domingo	Dominican Republic	30628
+JL-5835	2900 Pepperrell Pkwy	Long Beach	New York	United States	30630
+EP-13915	92 Plaza Lane	Qingdao	Shandong	China	30632
+MS-17770	1537 Hwy 231 South	Le Bouscat	Aquitaine	France	30634
+CM-12655	2181 Pelham Pkwy	San Francisco	California	United States	30636
+JC-6105	165 Vaughan Ln	Shiraz	Fars	Iran	30638
+GB-14530	3700 Hwy 280-431 N	Bokaro	Jharkhand	India	30640
+JH-16180	1903 Cobbs Ford Rd	Fuji	Shizuoka	Japan	30642
+MT-8070	4180 Us Hwy 431	Benidorm	Valenciana	Spain	30644
+CV-2805	13675 Hwy 43	Kozhikode	Kerala	India	30646
+NH-18610	1095 Industrial Pkwy	Adelaide	South Australia	Australia	30648
+HJ-14875	24833 Johnt Reidprkw	Kuala Lumpur	Kuala Lumpur	Malaysia	30650
+JL-15175	1501 Hwy 14 East	Astrakhan'	Astrakhan'	Russia	30652
+MY-18295	7855 Moffett Rd	Columbus	Ohio	United States	30654
+MW-18235	150 Springville Station Blvd	Xiangtan	Hunan	China	30656
+KC-16540	690 Hwy 78	Shaoxing	Zhejiang	China	30658
+HA-14920	41301 US Hwy 280	Jabalpur	Madhya Pradesh	India	30660
+MT-17815	214 Haynes Street	Patna	Bihar	India	30662
+FW-14395	1300 Gilmer Ave	Adelaide	South Australia	Australia	30664
+BH-11710	34301 Hwy 43	Marikina	National Capital	Philippines	30666
+DK-12895	1420 Us 231 South	Shenzhen	Guangdong	China	30668
+SC-20845	1501 Skyland Blvd E	La Baule-Escoublac	Pays de la Loire	France	30670
+CY-12745	3501 20th Av	Dijon	Burgundy	France	30672
+HL-15040	1300 Montgomery Highway	Los Angeles	California	United States	30674
+CT-11995	4538 Us Hwy 231	Philadelphia	Pennsylvania	United States	30676
+GR-4560	2575 Us Hwy 43	Cape Town	Western Cape	South Africa	30678
+TT-21070	4180 Us Hwy 431	Cairo	Al Qahirah	Egypt	30680
+PO-19195	13675 Hwy 43	Medellín	Antioquia	Colombia	30682
+ED-13885	1095 Industrial Pkwy	New York City	New York	United States	30684
+TM-21490	24833 Johnt Reidprkw	West Bromwich	England	United Kingdom	30686
+AW-10840	1501 Hwy 14 East	Detroit	Michigan	United States	30688
+AT-10735	7855 Moffett Rd	Seattle	Washington	United States	30690
+SG-10605	150 Springville Station Blvd	New York City	New York	United States	30692
+BM-11785	690 Hwy 78	Baku	Baki	Azerbaijan	30694
+DK-13375	41301 US Hwy 280	Jakarta	Jakarta	Indonesia	30696
+PF-19225	214 Haynes Street	Burnley	England	United Kingdom	30698
+TG-21310	1300 Gilmer Ave	Laval	Pays de la Loire	France	30700
+SF-10200	34301 Hwy 43	Vilnius	Vilnius	Lithuania	30702
+JW-5220	1420 Us 231 South	Brisbane	Queensland	Australia	30704
+CC-12100	1501 Skyland Blvd E	Seattle	Washington	United States	30706
+RD-19930	3501 20th Av	Buenos Aires	Buenos Aires	Argentina	30708
+BP-1230	1300 Montgomery Highway	Girga	Suhaj	Egypt	30710
+CS-12175	4538 Us Hwy 231	Kochi	Kerala	India	30712
+JD-16060	2575 Us Hwy 43	Detroit	Michigan	United States	30714
+GH-14665	301 Massachusetts Ave	Maseru	Maseru	Lesotho	30716
+CM-11935	780 Lynnway	Wellington	Wellington	New Zealand	30718
+RB-9465	70 Pleasant Valley Street	Luoyang	Henan	China	30720
+RB-19795	830 Curran Memorial Hwy	Feira de Santana	Bahia	Brazil	30722
+DL-13495	1470 S Washington St	Matagalpa	Matagalpa	Nicaragua	30724
+TS-21205	506 State Road	Houston	Texas	United States	30726
+MV-8190	742 Main Street	Seattle	Washington	United States	30728
+BD-11560	72 Main St	Virginia Beach	Virginia	United States	30730
+PS-18760	200 Otis Street	Managua	Managua	Nicaragua	30732
+FM-14215	180 North King Street	Managua	Managua	Nicaragua	30734
+CA-12775	555 East Main St	Wuhai	Inner Mongolia	China	30736
+CD-12790	555 Hubbard Ave-Suite 12	Nantes	Pays de la Loire	France	30738
+NL-18310	300 Colony Place	Strasbourg	Alsace	France	30740
+TB-21055	301 Falls Blvd	Berlin	Berlin	Germany	30742
+EH-4125	36 Paramount Drive	Surabaya	Jawa Timur	Indonesia	30744
+KB-16600	450 Highland Ave	Tupã	São Paulo	Brazil	30746
+KW-16435	1180 Fall River Avenue	Vienna	Vienna	Austria	30748
+MG-17695	1105 Boston Road	Mexico City	Distrito Federal	Mexico	30750
+HM-14860	100 Charlton Road	Hobart	Tasmania	Australia	30752
+BP-11290	262 Swansea Mall Dr	Hirakata	Osaka	Japan	30754
+HZ-4950	333 Main Street	Preston	England	United Kingdom	30756
+TC-20980	550 Providence Hwy	Maseru	Maseru	Lesotho	30758
+EM-13825	352 Palmer Road	Agra	Uttar Pradesh	India	30760
+BS-11800	3005 Cranberry Hwy Rt 6 28	Granollers	Catalonia	Spain	30762
+DV-13465	250 Rt 59	Ho Chi Minh City	Ho Chí Minh City	Vietnam	30764
+MB-17305	141 Washington Ave Extension	Jakarta	Jakarta	Indonesia	30766
+PC-19000	13858 Rt 31 W	Camagüey	Camagüey	Cuba	30768
+CA-12310	2055 Niagara Falls Blvd	Amsterdam	North Holland	Netherlands	30770
+KC-16255	101 Sanford Farm Shpg Center	Gold Coast	Queensland	Australia	30772
+DB-3660	297 Grant Avenue	Morristown	New Jersey	United States	30774
+SC-20260	4133 Veterans Memorial Drive	Piatra-Neamt	Neamt	Romania	30776
+BD-11500	6265 Brockport Spencerport Rd	Milpa Alta	Distrito Federal	Mexico	30778
+BM-11140	5399 W Genesse St	Mexico City	Distrito Federal	Mexico	30780
+KB-16315	3191 County rd 10	León	Guanajuato	Mexico	30782
+JM-15865	30 Catskill	Los Angeles	California	United States	30784
+AF-10885	161 Centereach Mall	Los Angeles	California	United States	30786
+SJ-20500	3018 East Ave	San Francisco	California	United States	30788
+WB-21850	100 Thruway Plaza	Izmir	Izmir	Turkey	30790
+CC-12610	8064 Brewerton Rd	Newark	Delaware	United States	30792
+BE-11455	5033 Transit Road	Dakar	Dakar	Senegal	30794
+TG-21640	3949 Route 31	Coyoacán	Distrito Federal	Mexico	30796
+MS-17365	139 Merchant Place	Manukau City	Auckland	New Zealand	30798
+NP-18685	85 Crooked Hill Road	Yaounde	Centre	Cameroon	30800
+RM-19675	872 Route 13	Newcastle upon Tyne	England	United Kingdom	30802
+SN-20560	279 Troy Road	Dehra Dun	Uttarakhand	India	30804
+CD-12280	2465 Hempstead Turnpike	Bangkok	Bangkok	Thailand	30806
+BG-11035	6438 Basile Rowe	Santander	Cantabria	Spain	30808
+CC-12550	25737 US Rt 11	Cangzhou	Hebei	China	30810
+SV-20785	901 Route 110	Shanghai	Shanghai	China	30812
+HW-14935	2400 Route 9	León	León	Nicaragua	30814
+AS-10285	10401 Bennett Road	Rybinsk	Yaroslavl'	Russia	30816
+LD-16855	1818 State Route 3	Ibiúna	São Paulo	Brazil	30818
+NS-18505	4300 Lakeville Road	Gold Coast	Queensland	Australia	30820
+CM-12715	990 Route 5 20	Philadelphia	Pennsylvania	United States	30822
+JD-6060	311 RT 9W	Canberra	Australian Capital Territory	Australia	30824
+MG-17680	200 Dutch Meadows Ln	Tallahassee	Florida	United States	30826
+DB-13210	100 Elm Ridge Center Dr	Port Elizabeth	Eastern Cape	South Africa	30828
+CS-11860	1549 Rt 9	Newark	Ohio	United States	30830
+GG-14650	5360 Southwestern Blvd	Cambridge	England	United Kingdom	30832
+BN-11470	103 North Caroline St	Bandung	Jawa Barat	Indonesia	30834
+BS-1665	1000 State Route 36	Mixco	Guatemala	Guatemala	30836
+AC-10450	1400 County Rd 64	Kota	Chhattisgarh	India	30838
+CK-12205	135 Fairgrounds Memorial Pkwy	Munster	Lower Saxony	Germany	30840
+JD-16150	2 Gannett Dr	Christchurch	Canterbury	New Zealand	30842
+CC-2550	233 5th Ave Ext	Vincennes	Ile-de-France	France	30844
+MS-17830	601 Frank Stottile Blvd	Moers	North Rhine-Westphalia	Germany	30846
+SM-20950	350 E Fairmount Ave	Chongqing	Chongqing	China	30848
+CL-12700	4975 Transit Rd	Gyula	Bekes	Hungary	30850
+CM-12160	579 Troy-Schenectady Road	Lucknow	Uttar Pradesh	India	30852
+JC-15775	5783 So Transit Road	Managua	Managua	Nicaragua	30854
+LH-16900	7155 State Rt 12 S	Florence	Kentucky	United States	30856
+DV-13045	425 Route 31	Turin	Piedmont	Italy	30858
+BT-11530	3222 State Rt 11	Manila	National Capital	Philippines	30860
+BM-1650	200 Sunrise Mall	Medan	Sumatera Utara	Indonesia	30862
+MG-18205	43 Stephenville St	Springfield	Missouri	United States	30864
+RB-19705	750 Middle Country Road	Singapore	Singapore	Singapore	30866
+FC-14245	470 Route 211 East	Benguela	Benguela	Angola	30868
+TT-21220	3133 E Main St	Lafayette	Indiana	United States	30870
+SJ-20215	288 Larkin	Himeji	Hyogo	Japan	30872
+PB-18805	41 Anawana Lake Road	New York City	New York	United States	30874
+RW-19690	4765 Commercial Drive	Kendari	Sulawesi Tenggara	Indonesia	30876
+DB-3360	1201 Rt 300	Mejicanos	San Salvador	El Salvador	30878
+DK-13150	255 W Main St	Sydney	New South Wales	Australia	30880
+RW-9540	120 Commercial Parkway	Barcelona	Catalonia	Spain	30882
+MP-17470	1400 Farmington Ave	Menton	Provence-Alpes-Côte d'Azur	France	30884
+TB-21625	161 Berlin Road	Huntsville	Alabama	United States	30886
+MO-17800	67 Newton Rd	Clermont-Ferrand	Auvergne	France	30888
+MR-17545	656 New Haven Ave	Philadelphia	Pennsylvania	United States	30890
+LC-17050	69 Prospect Hill Road	Buzau	Buzau	Romania	30892
+RA-19885	150 Gold Star Hwy	San Francisco	California	United States	30894
+MG-8145	900 Boston Post Road	Bayeux	Paraíba	Brazil	30896
+JE-16165	2300 Dixwell Ave	Columbus	Georgia	United States	30898
+JK-16090	495 Flatbush Ave	San Antonio	Texas	United States	30900
+EM-13960	180 River Rd	Kuala Lumpur	Kuala Lumpur	Malaysia	30902
+DJ-13420	420 Buckland Hills Dr	Perth	Western Australia	Australia	30904
+BO-11425	1365 Boston Post Road	Darwin	Northern Territory	Australia	30906
+LW-17215	1100 New Haven Road	Jamestown	New York	United States	30908
+PJ-19015	315 Foxon Blvd	Bayeux	Lower Normandy	France	30910
+KM-16720	164 Danbury Rd	Lens	Nord-Pas-de-Calais	France	30912
+BG-11695	3164 Berlin Turnpike	Lannion	Brittany	France	30914
+CS-12130	474 Boston Post Road	Los Angeles	California	United States	30916
+MC-17425	650 Main Ave	Iserlohn	North Rhine-Westphalia	Germany	30918
+BD-1635	680 Connecticut Avenue	Kalemie	Katanga	Democratic Republic of the Congo	30920
+RF-19345	220 Salem Turnpike	Sydney	New South Wales	Australia	30922
+MG-7680	655 Boston Post Rd	Ghent	East Flanders	Belgium	30924
+KH-16690	625 School Street	Los Angeles	California	United States	30926
+CC-12475	80 Town Line Rd	Indianapolis	Indiana	United States	30928
+LT-16765	465 Bridgeport Avenue	Marseille	Provence-Alpes-Côte d'Azur	France	30930
+BF-10975	235 Queen St	Los Angeles	California	United States	30932
+CJ-12010	150 Barnum Avenue Cutoff	Soyapango	San Salvador	El Salvador	30934
+SH-9975	970 Torringford Street	Lahore	Punjab	Pakistan	30936
+SL-20155	844 No Colony Road	Sydney	New South Wales	Australia	30938
+NC-8340	910 Wolcott St	Grenoble	Rhône-Alpes	France	30940
+JB-5400	155 Waterford Parkway No	Espoo	Uusimaa	Finland	30942
+TB-21250	515 Sawmill Road	Whyalla	South Australia	Australia	30944
+PS-18970	2473 Hackworth Road	Adelaide	South Australia	Australia	30946
+BB-11545	630 Coonial Promenade Pkwy	Medan	Sumatera Utara	Indonesia	30948
+SG-10470	2643 Hwy 280 West	Ivry-sur-Seine	Ile-de-France	France	30950
+SP-20920	540 West Bypass	Kanpur	Uttar Pradesh	India	30952
+Dp-13240	5560 Mcclellan Blvd	Saint-Laurent-du-Var	Provence-Alpes-Côte d'Azur	France	30954
+GZ-14470	1450 No Brindlee Mtn Pkwy	Cartagena	Bolívar	Colombia	30956
+AH-10075	1011 US Hwy 72 East	Cancún	Quintana Roo	Mexico	30958
+CB-2025	973 Gilbert Ferry Road Se	Harbin	Heilongjiang	China	30960
+SC-20050	1717 South College Street	Kumasi	Ashanti	Ghana	30962
+SC-10230	701 Mcmeans Ave	Ho Chi Minh City	Ho Chí Minh City	Vietnam	30964
+JS-15595	750 Academy Drive	Delhi	Delhi	India	30966
+BS-11380	312 Palisades Blvd	London	England	United Kingdom	30968
+JL-5130	1600 Montclair Rd	Vienna	Vienna	Austria	22347
+AS-10090	5919 Trussville Crossings Pkwy	Salem	Tamil Nadu	India	22350
+EL-13735	9248 Parkway East	Angers	Pays de la Loire	France	22353
+FH-14275	1972 Hwy 431	Bangkok	Bangkok	Thailand	22356
+OT-18730	10675 Hwy 5	Bremen	Bremen	Germany	22359
+SM-10320	2041 Douglas Avenue	Khorramabad	Lorestan	Iran	22362
+PM-19135	5100 Hwy 31	Chennai	Tamil Nadu	India	22365
+TS-11430	1916 Center Point Rd	Barletta	Apulia	Italy	22368
+LS-17245	1950 W Main St	Tamworth	England	United Kingdom	22371
+SF-20200	16077 Highway 280	Kharkiv	Kharkiv	Ukraine	22374
+CM-11815	1415 7Th Street South	London	England	United Kingdom	22377
+FG-14260	626 Olive Street Sw	Philadelphia	Pennsylvania	United States	22380
+KN-6705	27520 Hwy 98	Barcelona	Catalonia	Spain	22383
+TB-11520	2800 Spring Avn SW	Kulti	West Bengal	India	22386
+JB-15400	969 Us Hwy 80 West	Le Mans	Pays de la Loire	France	22389
+KH-16510	3300 South Oates Street	Managua	Managua	Nicaragua	22392
+DL-13330	4310 Montgomery Hwy	Mianyang	Sichuan	China	22395
+KN-16390	600 Boll Weevil Circle	Maputo	Cidade De Maputo	Mozambique	22398
+SV-20935	3176 South Eufaula Avenue	Cadereyta	Nuevo León	Mexico	22401
+MD-17860	7100 Aaron Aronov Drive	Bundaberg	Queensland	Australia	22404
+LS-17200	10040 County Road 48	Managua	Managua	Nicaragua	22407
+CM-12445	3186 Hwy 171 North	Valparaíso de Goiás	Goiás	Brazil	22410
+SS-20140	3100 Hough Rd	Manado	Sulawesi Utara	Indonesia	22413
+GH-14425	2200 South Mckenzie St	Muzaffarpur	Bihar	India	22416
+SM-20320	2001 Glenn Bldv Sw	Kermanshah	Kermanshah	Iran	22419
+GR-14560	340 East Meighan Blvd	Thane	Maharashtra	India	22422
+TS-21370	890 Odum Road	New York City	New York	United States	22425
+DH-3675	1608 W Magnolia Ave	Piedecuesta	Santander	Colombia	22428
+MM-8280	501 Willow Lane	Mixco	Guatemala	Guatemala	22431
+PM-9135	170 Fort Morgan Road	Bangalore	Karnataka	India	22434
+GP-4740	11697 US Hwy 431	Mexico City	Distrito Federal	Mexico	22437
+AF-10870	42417 Hwy 195	Managua	Managua	Nicaragua	22440
+TS-21505	1706 Military Street South	Yaounde	Centre	Cameroon	22443
+BM-11575	1201 Hwy 31 NW	Xiamen	Fujian	China	22446
+AH-10030	209 Lakeshore Parkway	Detroit	Michigan	United States	22449
+AG-10495	2780 John Hawkins Pkwy	Kitwe	Copperbelt	Zambia	22452
+AG-675	5335 Hwy 280 South	Berlin	Berlin	Germany	22455
+SW-20755	1007 Red Farmer Drive	Cape Town	Western Cape	South Africa	22458
+SK-19990	2900 S Mem PkwyDrake Ave	Jieyang	Guangdong	China	22461
+AG-10900	11610 Memorial Pkwy South	New York City	New York	United States	22464
+AJ-960	2200 Sparkman Drive	New York City	New York	United States	22467
+MC-7275	330 Sutton Rd	Hamamatsu	Shizuoka	Japan	22470
+ER-13855	6140A Univ Drive	Ningbo	Zhejiang	China	22473
+EJ-13720	4206 N College Ave	Jodhpur	Rajasthan	India	22476
+DH-13675	1625 Pelham South	Weimar	Thuringia	Germany	22479
+HE-14800	1801 Hwy 78 East	Auckland	Auckland	New Zealand	22482
+KT-16480	8551 Whitfield Ave	Beijing	Beijing	China	22485
+SB-20170	8650 Madison Blvd	Lubumbashi	Katanga	Democratic Republic of the Congo	22488
+EM-14140	145 Kelley Blvd	Franklin	Wisconsin	United States	22491
+VT-21700	1970 S University Blvd	Omaha	Nebraska	United States	22494
+JS-15880	6350 Cottage Hill Road	Nagpur	Maharashtra	India	22497
+BC-11125	101 South Beltline Highway	Villahermosa	Tabasco	Mexico	22500
+NF-18595	2500 Dawes Road	Oyonnax	Rhône-Alpes	France	22503
+RH-9600	5245 Rangeline Service Rd	Metepec	México	Mexico	22506
+CS-11950	685 Schillinger Rd	New York City	New York	United States	22509
+CM-12235	3371 S Alabama Ave	Santa Ana	California	United States	22512
+LW-16825	10710 Chantilly Pkwy	Manila	National Capital	Philippines	22515
+RD-19585	3801 Eastern Blvd	Antony	Ile-de-France	France	22518
+BT-11680	6495 Atlanta Hwy	Culiacán	Sinaloa	Mexico	22521
+MD-7860	851 Ann St	Melbourne	Victoria	Australia	22524
+CC-12145	15445 Highway 24	Mobile	Alabama	United States	22527
+XP-21865	517 West Avalon Ave	Al Amarah	Maysan	Iraq	22530
+ML-17410	5710 Mcfarland Blvd	Barcelona	Catalonia	Spain	22533
+BS-11665	2453 2Nd Avenue East	Jakarta	Jakarta	Indonesia	22536
+SC-20230	2900 Pepperrell Pkwy	Mashhad	Razavi Khorasan	Iran	22539
+QJ-19255	92 Plaza Lane	Springfield	Virginia	United States	22542
+RE-19450	1537 Hwy 231 South	Bhavnagar	Gujarat	India	22545
+CP-2085	2181 Pelham Pkwy	Rome	Lazio	Italy	22548
+JK-5730	165 Vaughan Ln	Palma de Mallorca	Balearic Islands	Spain	22551
+HZ-14950	969 Us Hwy 80 West	Saint-Priest	Rhône-Alpes	France	22554
+AR-10570	3300 South Oates Street	Anshan	Liaoning	China	22557
+EH-14005	4310 Montgomery Hwy	Gyor	Gyor	Hungary	22560
+JR-15700	600 Boll Weevil Circle	Coyoacán	Distrito Federal	Mexico	22563
+PL-18925	3176 South Eufaula Avenue	Monrovia	Montserrado	Liberia	22566
+TC-21145	7100 Aaron Aronov Drive	Johannesburg	Gauteng	South Africa	22569
+DG-13300	10040 County Road 48	Harbin	Heilongjiang	China	22572
+Dl-13600	3186 Hwy 171 North	Santiago de Cuba	Santiago de Cuba	Cuba	22575
+NC-18415	3100 Hough Rd	Bogotá	Bogota	Colombia	22578
+EB-13930	2200 South Mckenzie St	Erlangen	Bavaria	Germany	22581
+CP-12085	2001 Glenn Bldv Sw	Tbilisi	Tbilisi	Georgia	22584
+SM-20005	340 East Meighan Blvd	Bangkok	Bangkok	Thailand	22587
+JR-15670	890 Odum Road	Jaipur	Rajasthan	India	22590
+DL-12925	1608 W Magnolia Ave	Suzhou	Gansu	China	22593
+FM-14290	501 Willow Lane	Reggio nell'Emilia	Emilia-Romagna	Italy	22596
+DP-13165	170 Fort Morgan Road	Azcapotzalco	Distrito Federal	Mexico	22599
+CK-12595	11697 US Hwy 431	Lublin	Lublin	Poland	22602
+CM-11830	42417 Hwy 195	Gold Coast	Queensland	Australia	22605
+PP-18955	1706 Military Street South	Zurich	Zürich	Switzerland	22608
+MM-17260	1201 Hwy 31 NW	Elbasan	Elbasan	Albania	22611
+ME-17320	209 Lakeshore Parkway	Medan	Sumatera Utara	Indonesia	22614
+CS-12490	2780 John Hawkins Pkwy	Bandung	Jawa Barat	Indonesia	22617
+GH-14410	5335 Hwy 280 South	Bangkok	Bangkok	Thailand	22620
+MC-17635	1007 Red Farmer Drive	Voronezh	Voronezh	Russia	22623
+LM-7065	2900 S Mem PkwyDrake Ave	Shimonoseki	Yamaguchi	Japan	22626
+AR-10510	11610 Memorial Pkwy South	Dhaka	Dhaka	Bangladesh	22629
+JH-15910	2200 Sparkman Drive	Huddersfield	England	United Kingdom	22632
+DK-3375	330 Sutton Rd	Melbourne	Victoria	Australia	22635
+EG-13900	6140A Univ Drive	Palu	Sulawesi Tengah	Indonesia	22638
+AS-10630	4206 N College Ave	Imphal	Manipur	India	22641
+CL-11890	1625 Pelham South	Shenyang	Liaoning	China	22644
+CA-12265	1801 Hwy 78 East	Barcelona	Catalonia	Spain	22647
+PF-19165	8551 Whitfield Ave	Muzaffarpur	Bihar	India	22650
+DB-12970	8650 Madison Blvd	Bethlehem	Pennsylvania	United States	22653
+CL-12565	145 Kelley Blvd	Koumra	Mandoul	Chad	22656
+MF-17665	1970 S University Blvd	Ballarat	Victoria	Australia	22659
+IM-15055	6350 Cottage Hill Road	Podgorica	Podgorica	Montenegro	22662
+EB-13975	101 South Beltline Highway	Ribeirão Preto	São Paulo	Brazil	22665
+AA-10315	2500 Dawes Road	Brisbane	Queensland	Australia	22668
+MV-17485	5245 Rangeline Service Rd	Zapopan	Jalisco	Mexico	22671
+JW-15955	685 Schillinger Rd	Sydney	New South Wales	Australia	22674
+TS-21610	3371 S Alabama Ave	Guelph	Ontario	Canada	22677
+MC-17575	10710 Chantilly Pkwy	Bellingham	Washington	United States	22680
+JF-5415	3801 Eastern Blvd	Lahore	Punjab	Pakistan	22683
+AH-10210	6495 Atlanta Hwy	Bordeaux	Aquitaine	France	22686
+KD-16345	851 Ann St	Hamadan	Hamadan	Iran	22689
+PG-18895	15445 Highway 24	Windhoek	Khomas	Namibia	22692
+HK-14890	517 West Avalon Ave	Eindhoven	North Brabant	Netherlands	22695
+RR-19315	5710 Mcfarland Blvd	New York City	New York	United States	22698
+HH-5010	2453 2Nd Avenue East	Quetzaltenango	Quezaltenango	Guatemala	22701
+SH-20635	2900 Pepperrell Pkwy	Lahore	Punjab	Pakistan	22704
+AR-10825	92 Plaza Lane	Manila	National Capital	Philippines	22707
+RP-9855	1537 Hwy 231 South	Antiguo Cuscatlán	La Libertad	El Salvador	22710
+LR-17035	2181 Pelham Pkwy	Cranston	Rhode Island	United States	22713
+IM-5055	165 Vaughan Ln	Guantánamo	Guantánamo	Cuba	22716
+CK-12325	3700 Hwy 280-431 N	Bacolod City	Western Visayas	Philippines	22719
+AS-285	1903 Cobbs Ford Rd	Nagpur	Maharashtra	India	22722
+DK-12985	4180 Us Hwy 431	Kwinana	Western Australia	Australia	22725
+EH-4185	13675 Hwy 43	Wuxi	Jiangsu	China	22728
+ML-17395	1095 Industrial Pkwy	Sydney	New South Wales	Australia	22731
+BF-11215	24833 Johnt Reidprkw	Deuil-la-Barre	Ile-de-France	France	22734
+MB-7305	1501 Hwy 14 East	Zapopan	Jalisco	Mexico	22737
+CR-12580	7855 Moffett Rd	Lafayette	Louisiana	United States	22740
+TB-21520	150 Springville Station Blvd	Wollongong	New South Wales	Australia	22743
+KN-16450	690 Hwy 78	Lisbon	Lisboa	Portugal	22746
+HR-14770	41301 US Hwy 280	Jhansi	Uttar Pradesh	India	22749
+CK-12760	214 Haynes Street	Amravati	Maharashtra	India	22752
+RO-9780	1300 Gilmer Ave	Wafangdian	Liaoning	China	22755
+EN-13780	34301 Hwy 43	Delhi	Delhi	India	22758
+AH-10465	1420 Us 231 South	San Juan de la Maguana	San Juan	Dominican Republic	22761
+AH-10585	1501 Skyland Blvd E	New York City	New York	United States	22764
+RB-9435	3501 20th Av	Mexico City	Distrito Federal	Mexico	22767
+AG-525	1300 Montgomery Highway	Chicago	Illinois	United States	22770
+AR-10345	4538 Us Hwy 231	Antananarivo	Analamanga	Madagascar	22773
+MW-8220	2575 Us Hwy 43	Ufa	Bashkortostan	Russia	22776
+AH-210	4180 Us Hwy 431	Jamshedpur	Jharkhand	India	22779
+TH-21235	13675 Hwy 43	Tehran	Tehran	Iran	22782
+LT-7110	1095 Industrial Pkwy	Bendigo	Victoria	Australia	22785
+HD-14785	24833 Johnt Reidprkw	Quetta	Baluchistan	Pakistan	22788
+MC-7575	1501 Hwy 14 East	Rovigo	Veneto	Italy	22791
+MH-18025	7855 Moffett Rd	Shenyang	Liaoning	China	22794
+CC-2475	150 Springville Station Blvd	Casablanca	Grand Casablanca	Morocco	22797
+CM-12190	690 Hwy 78	Ghent	East Flanders	Belgium	22800
+RA-19915	41301 US Hwy 280	Boulogne-Billancourt	Ile-de-France	France	22803
+MT-18070	214 Haynes Street	Soacha	Cundinamarca	Colombia	22806
+JF-15415	1300 Gilmer Ave	Puebla	Puebla	Mexico	22809
+ES-14020	34301 Hwy 43	Brisbane	Queensland	Australia	22812
+CC-12685	1420 Us 231 South	Vienna	Vienna	Austria	22815
+IM-15070	1501 Skyland Blvd E	Xiangtan	Hunan	China	22818
+DA-13450	3501 20th Av	Dudley	England	United Kingdom	22821
+SS-10410	1300 Montgomery Highway	San Francisco	California	United States	22824
+BM-11650	4538 Us Hwy 231	Vienna	Vienna	Austria	22827
+SW-20350	2575 Us Hwy 43	Ris-Orangis	Ile-de-France	France	22830
+CM-1830	301 Massachusetts Ave	Managua	Managua	Nicaragua	22833
+MY-17380	780 Lynnway	Levallois-Perret	Ile-de-France	France	22836
+MS-7830	70 Pleasant Valley Street	Ho Chi Minh City	Ho Chí Minh City	Vietnam	22839
+HG-14965	830 Curran Memorial Hwy	Mexico City	Distrito Federal	Mexico	22842
+DC-13285	1470 S Washington St	Casablanca	Grand Casablanca	Morocco	22845
+DL-13315	506 State Road	Luts'k	Volyn	Ukraine	22848
+JK-15370	742 Main Street	Madrid	Madrid	Spain	22851
+CH-2070	72 Main St	Charlotte	North Carolina	United States	22854
+MH-7440	200 Otis Street	Jizan	Jizan	Saudi Arabia	22857
+MC-17845	180 North King Street	Singapore	Singapore	Singapore	22860
+PW-19030	555 East Main St	San Salvador	San Salvador	El Salvador	22863
+BS-11590	555 Hubbard Ave-Suite 12	Lorain	Ohio	United States	22866
+DO-13435	300 Colony Place	Stoke-on-Trent	England	United Kingdom	22869
+SG-20890	301 Falls Blvd	New York City	New York	United States	22872
+SU-20665	36 Paramount Drive	São Paulo	São Paulo	Brazil	22875
+JC-16105	450 Highland Ave	Philadelphia	Pennsylvania	United States	22878
+TB-21190	1180 Fall River Avenue	Huaibei	Anhui	China	22881
+SV-10785	1105 Boston Road	Lehi	Utah	United States	22884
+VP-21760	100 Charlton Road	Masterton	Wellington	New Zealand	22887
+LR-16915	262 Swansea Mall Dr	Seattle	Washington	United States	22890
+TH-21550	333 Main Street	Whangarei	Northland	New Zealand	22893
+TC-11145	550 Providence Hwy	Kunming	Yunnan	China	22896
+JL-15235	352 Palmer Road	Columbia	Missouri	United States	22899
+RK-19300	3005 Cranberry Hwy Rt 6 28	Vancouver	British Columbia	Canada	22902
+CC-12670	250 Rt 59	Pamplona	Navarra	Spain	22905
+DB-13555	141 Washington Ave Extension	Haninge	Stockholm	Sweden	22908
+SG-20605	13858 Rt 31 W	Oviedo	Asturias	Spain	22911
+MG-17890	2055 Niagara Falls Blvd	Carrollton	Texas	United States	22914
+MA-17560	101 Sanford Farm Shpg Center	Nasik	Maharashtra	India	22917
+CB-12025	297 Grant Avenue	Torrevieja	Valenciana	Spain	22920
+DH-13075	4133 Veterans Memorial Drive	Atlanta	Georgia	United States	22923
+BT-11395	6265 Brockport Spencerport Rd	Ube	Yamaguchi	Japan	22926
+TT-11265	5399 W Genesse St	New York City	New York	United States	22929
+TH-11235	3191 County rd 10	Minneapolis	Minnesota	United States	22932
+VG-21790	30 Catskill	Pozzuoli	Campania	Italy	22935
+NW-18400	161 Centereach Mall	Poltava	Poltava	Ukraine	22938
+VP-21730	3018 East Ave	Depok	Yogyakarta	Indonesia	22941
+SS-20410	100 Thruway Plaza	Regensburg	Bavaria	Germany	22944
+JE-15715	8064 Brewerton Rd	Mejicanos	San Salvador	El Salvador	22947
+AG-270	5033 Transit Road	Visakhapatnam	Andhra Pradesh	India	22950
+BW-11200	3949 Route 31	Camagüey	Camagüey	Cuba	22953
+EK-13795	139 Merchant Place	Matagalpa	Matagalpa	Nicaragua	22956
+SG-20080	85 Crooked Hill Road	Seattle	Washington	United States	22959
+SC-10725	872 Route 13	Clamart	Ile-de-France	France	22962
+AG-10525	279 Troy Road	Christchurch	Canterbury	New Zealand	22965
+MG-18145	2465 Hempstead Turnpike	Los Angeles	California	United States	22968
+BD-11605	6438 Basile Rowe	Garbsen	Lower Saxony	Germany	22971
+PB-19105	25737 US Rt 11	Jixi	Heilongjiang	China	22974
+SC-20575	901 Route 110	Santo Domingo	Santo Domingo	Dominican Republic	22977
+DO-3435	2400 Route 9	Potchefstroom	North-West	South Africa	22980
+CC-12220	10401 Bennett Road	Vladimir	Vladimir	Russia	22983
+TS-21430	1818 State Route 3	Bordeaux	Aquitaine	France	22986
+AZ-10750	4300 Lakeville Road	Perth	Western Australia	Australia	22989
+IG-15085	990 Route 5 20	Burgos	Castile and León	Spain	22992
+SP-20860	311 RT 9W	Kollam	Kerala	India	22995
+KM-16225	200 Dutch Meadows Ln	Yangon	Yangon	Myanmar (Burma)	22998
+KM-6720	100 Elm Ridge Center Dr	Mexico City	Distrito Federal	Mexico	23001
+MM-18055	1549 Rt 9	Mexico City	Distrito Federal	Mexico	23004
+RB-19360	5360 Southwestern Blvd	Bondy	Ile-de-France	France	23007
+NC-8415	103 North Caroline St	Mont-de-Marsan	Aquitaine	France	23010
+SN-20710	1000 State Route 36	Lyon	Rhône-Alpes	France	23013
+DL-3330	1400 County Rd 64	Houston	Texas	United States	23016
+JG-15115	135 Fairgrounds Memorial Pkwy	Depok	Jawa Barat	Indonesia	23019
+CJ-11875	2 Gannett Dr	Casablanca	Grand Casablanca	Morocco	23022
+AY-10555	233 5th Ave Ext	Huaibei	Anhui	China	23025
+BV-11245	601 Frank Stottile Blvd	Springfield	Missouri	United States	23028
+PO-9195	350 E Fairmount Ave	Santo André	São Paulo	Brazil	23031
+GZ-4545	4975 Transit Rd	Menden	North Rhine-Westphalia	Germany	23034
+PN-18775	579 Troy-Schenectady Road	Beijing	Beijing	China	23037
+SC-20800	5783 So Transit Road	Wollongong	New South Wales	Australia	23040
+AC-10615	7155 State Rt 12 S	Spanish Town	Saint Catherine	Jamaica	23043
+VB-21745	425 Route 31	Thane	Maharashtra	India	23046
+TT-11460	3222 State Rt 11	Taupo	Waikato	New Zealand	23049
+AC-10420	200 Sunrise Mall	Providence	Rhode Island	United States	23052
+CG-12040	43 Stephenville St	Fengcheng	Liaoning	China	23055
+TR-11325	750 Middle Country Road	Vernon	Upper Normandy	France	23058
+SC-20440	470 Route 211 East	Seattle	Washington	United States	23061
+BT-11305	3133 E Main St	Philadelphia	Pennsylvania	United States	23064
+JB-15925	288 Larkin	Tianjin	Tianjin	China	23067
+GW-14605	41 Anawana Lake Road	Stoke-on-Trent	England	United Kingdom	23070
+SC-20725	4765 Commercial Drive	Chihuahua	Chihuahua	Mexico	23073
+EH-13765	1201 Rt 300	Elx	Valenciana	Spain	23076
+YS-21880	255 W Main St	Henderson	Kentucky	United States	23079
+FO-14305	120 Commercial Parkway	Santa Cruz de Barahona	Barahona	Dominican Republic	23082
+RP-19855	1400 Farmington Ave	Brasília	Federal District	Brazil	23085
+AB-10600	161 Berlin Road	Philadelphia	Pennsylvania	United States	23088
+KB-16240	67 Newton Rd	Lanzhou	Gansu	China	23091
+KA-16525	656 New Haven Ave	Shanghai	Shanghai	China	23094
+EM-3960	69 Prospect Hill Road	Manila	National Capital	Philippines	23097
+JD-15790	150 Gold Star Hwy	Bologna	Emilia-Romagna	Italy	23100
+JL-15850	900 Boston Post Road	Alice Springs	Northern Territory	Australia	23103
+JW-16075	2300 Dixwell Ave	Doha	Ad Dawhah	Qatar	23106
+LL-6840	495 Flatbush Ave	Velletri	Lazio	Italy	23109
+TH-21100	180 River Rd	Matsubara	Oita	Japan	23112
+MC-17275	420 Buckland Hills Dr	Kuantan	Pahang	Malaysia	23115
+NG-8430	1365 Boston Post Road	Gloucester	England	United Kingdom	23118
+KD-16615	1100 New Haven Road	Kinshasa	Kinshasa	Democratic Republic of the Congo	23121
+MC-17605	315 Foxon Blvd	Vigo	Galicia	Spain	23124
+JK-15625	164 Danbury Rd	Puteaux	Ile-de-France	France	23127
+TS-11505	3164 Berlin Turnpike	Geelong	Victoria	Australia	23130
+LD-6855	474 Boston Post Road	Jakarta	Jakarta	Indonesia	23133
+LP-17080	650 Main Ave	Whakatane	Bay of Plenty	New Zealand	23136
+CV-12805	680 Connecticut Avenue	Açu	Rio Grande do Norte	Brazil	23139
+MO-17500	220 Salem Turnpike	Colchester	England	United Kingdom	23142
+MS-17530	655 Boston Post Rd	Sandy Springs	Georgia	United States	23145
+GA-14515	625 School Street	Montpellier	Languedoc-Roussillon	France	23148
+CS-12355	80 Town Line Rd	Wetzlar	Hesse	Germany	23151
+GM-14500	465 Bridgeport Avenue	Perth	Western Australia	Australia	23154
+CC-2670	235 Queen St	Cleveland	Ohio	United States	23157
+MN-17935	150 Barnum Avenue Cutoff	Providence	Rhode Island	United States	23160
+JM-16195	970 Torringford Street	Shashi	Hubei	China	23163
+DB-13615	844 No Colony Road	Moers	North Rhine-Westphalia	Germany	23166
+PK-18910	910 Wolcott St	Chaoyang	Jilin	China	23169
+LS-16945	155 Waterford Parkway No	San Francisco	California	United States	23172
+JK-15730	515 Sawmill Road	Rugby	England	United Kingdom	23175
+SW-10275	2473 Hackworth Road	São Paulo	São Paulo	Brazil	23178
+MC-18100	630 Coonial Promenade Pkwy	Round Rock	Texas	United States	23181
+EH-13945	2643 Hwy 280 West	Hamburg	Hamburg	Germany	23184
+LC-16930	540 West Bypass	Saint-Chamond	Rhône-Alpes	France	23187
+MA-17995	5560 Mcclellan Blvd	Fontenay-aux-Roses	Ile-de-France	France	23190
+SP-20650	1450 No Brindlee Mtn Pkwy	Baotou	Inner Mongolia	China	23193
+JH-15430	1011 US Hwy 72 East	Prato	Tuscany	Italy	23196
+ML-17755	973 Gilbert Ferry Road Se	Fort Worth	Texas	United States	23199
+PC-18745	1717 South College Street	Indianapolis	Indiana	United States	23202
+KE-16420	701 Mcmeans Ave	San Francisco	California	United States	23205
+EM-4200	750 Academy Drive	Joinville	Santa Catarina	Brazil	23208
+DW-13480	312 Palisades Blvd	Mexico City	Distrito Federal	Mexico	23211
+SC-10680	1600 Montclair Rd	Canberra	Australian Capital Territory	Australia	23214
+JG-15805	5919 Trussville Crossings Pkwy	Casablanca	Grand Casablanca	Morocco	23217
+LL-16840	9248 Parkway East	Colombo	Parana	Brazil	23220
+PV-8985	1972 Hwy 431	Santo Domingo	Santo Domingo	Dominican Republic	23223
+PO-19180	10675 Hwy 5	Dover	New Hampshire	United States	23226
+SH-19975	2041 Douglas Avenue	Jining	Shandong	China	23229
+GA-14725	5100 Hwy 31	Thane	Maharashtra	India	23232
+GT-4755	1916 Center Point Rd	Zhenjiang	Jiangsu	China	23235
+PR-18880	1950 W Main St	Surat	Gujarat	India	23238
+AG-10765	16077 Highway 280	York	England	United Kingdom	23241
+SE-20110	1415 7Th Street South	Jining	Inner Mongolia	China	23244
+JB-16045	626 Olive Street Sw	Mérida	Yucatán	Mexico	23247
+JM-5580	27520 Hwy 98	Villa Nueva	Guatemala	Guatemala	23250
+JO-15280	2800 Spring Avn SW	Annecy-le-Vieux	Rhône-Alpes	France	23253
+LP-17095	969 Us Hwy 80 West	Drancy	Ile-de-France	France	23256
+EJ-14155	3300 South Oates Street	Jacksonville	Florida	United States	23259
+VW-21775	4310 Montgomery Hwy	Gold Coast	Queensland	Australia	23262
+GM-14455	600 Boll Weevil Circle	Dar es Salaam	Dar Es Salaam	Tanzania	23265
+BF-1080	3176 South Eufaula Avenue	Nuremberg	Bavaria	Germany	23268
+SM-20905	7100 Aaron Aronov Drive	Antony	Ile-de-France	France	23271
+BO-1425	10040 County Road 48	Concord	California	United States	23274
+AW-10930	3186 Hwy 171 North	Macheng	Hubei	China	23277
+JP-15460	3100 Hough Rd	Beni Mellal	Tadla-Azilal	Morocco	23280
+AS-10240	2200 South Mckenzie St	Juárez	Chihuahua	Mexico	23283
+TB-11625	2001 Glenn Bldv Sw	Roswell	Georgia	United States	23286
+JP-5520	340 East Meighan Blvd	Hamburg	Hamburg	Germany	23289
+BD-11770	890 Odum Road	Madurai	Tamil Nadu	India	23292
+BD-11635	1608 W Magnolia Ave	Dortmund	North Rhine-Westphalia	Germany	23295
+CC-2370	501 Willow Lane	Loubomo	Niari	Republic of the Congo	23298
+PO-8850	170 Fort Morgan Road	Jiangmen	Guangdong	China	23301
+TZ-21445	11697 US Hwy 431	Troy	Ohio	United States	23304
+RB-19435	42417 Hwy 195	Kaliningrad	Kaliningrad	Russia	23307
+JE-15475	1706 Military Street South	Mejicanos	San Salvador	El Salvador	23310
+AI-10855	1201 Hwy 31 NW	New York City	New York	United States	23313
+MH-17440	209 Lakeshore Parkway	Kristiansand	Vest-Agder	Norway	23316
+JE-6165	2780 John Hawkins Pkwy	Ad Diwaniyah	Al Qadisiyah	Iraq	23319
+DS-13180	5335 Hwy 280 South	Jakarta	Jakarta	Indonesia	23322
+AC-10660	1007 Red Farmer Drive	Managua	Managua	Nicaragua	23325
+MH-17455	2900 S Mem PkwyDrake Ave	Kinshasa	Kinshasa	Democratic Republic of the Congo	23328
+CC-12430	11610 Memorial Pkwy South	San Diego	California	United States	23331
+NG-18355	2200 Sparkman Drive	Philadelphia	Pennsylvania	United States	23334
+RC-19825	330 Sutton Rd	Perth	Western Australia	Australia	23337
+JD-16015	6140A Univ Drive	Marikina	National Capital	Philippines	23340
+JH-5910	4206 N College Ave	Bayonne	Aquitaine	France	23343
+SC-10695	1625 Pelham South	Wollongong	New South Wales	Australia	23346
+RD-9930	1801 Hwy 78 East	Avondale	Arizona	United States	23349
+LC-6930	8551 Whitfield Ave	Fairfield	Ohio	United States	23352
+DW-13195	8650 Madison Blvd	San José de las Lajas	Mayabeque	Cuba	23355
+RD-19900	145 Kelley Blvd	Montreuil	Ile-de-France	France	23358
+MV-18190	1970 S University Blvd	Algiers	Alger	Algeria	23361
+RD-19480	6350 Cottage Hill Road	Lowell	Massachusetts	United States	23364
+SV-20365	101 South Beltline Highway	Wollongong	New South Wales	Australia	23367
+LS-17230	2500 Dawes Road	Bologna	Emilia-Romagna	Italy	23370
+GD-14590	5245 Rangeline Service Rd	New York City	New York	United States	23373
+EB-13750	685 Schillinger Rd	León	León	Nicaragua	23376
+KH-6360	3371 S Alabama Ave	Seattle	Washington	United States	23379
+BF-11275	10710 Chantilly Pkwy	Townsville	Queensland	Australia	23382
+NG-18430	3801 Eastern Blvd	Istanbul	Istanbul	Turkey	23385
+Co-12640	6495 Atlanta Hwy	Marseille	Provence-Alpes-Côte d'Azur	France	23388
+SF-20965	851 Ann St	Kaunas	Kaunas	Lithuania	23391
+KB-16405	15445 Highway 24	Ardabil	Ardabil	Iran	23394
+LC-16870	517 West Avalon Ave	Mexicali	Baja California	Mexico	23397
+JL-15505	5710 Mcfarland Blvd	Mecca	Makkah	Saudi Arabia	23400
+BD-11725	2453 2Nd Avenue East	Alexandria	Al Iskandariyah	Egypt	23403
+TM-21010	2900 Pepperrell Pkwy	Queanbeyan	New South Wales	Australia	23406
+AB-150	92 Plaza Lane	Guilin	Guangxi	China	23409
+BW-11065	1537 Hwy 231 South	Sydney	New South Wales	Australia	23412
+FM-14380	2181 Pelham Pkwy	Henderson	Kentucky	United States	23415
+PC-8745	165 Vaughan Ln	Gaomi	Shandong	China	23418
+BN-1470	969 Us Hwy 80 West	Pretoria	Gauteng	South Africa	23421
+AH-10120	3300 South Oates Street	Blackpool	England	United Kingdom	23424
+LF-17185	4310 Montgomery Hwy	Schwerin	Mecklenburg-Vorpommern	Germany	23427
+DJ-13630	600 Boll Weevil Circle	Springfield	Virginia	United States	23430
+SJ-20125	3176 South Eufaula Avenue	Gold Coast	Queensland	Australia	23433
+ML-18265	7100 Aaron Aronov Drive	Jeddah	Makkah	Saudi Arabia	23436
+SF-10965	10040 County Road 48	Aligarh	Uttar Pradesh	India	23439
+PO-8865	3186 Hwy 171 North	Trento	Trentino-Alto Adige	Italy	23442
+MH-17290	3100 Hough Rd	Ravenna	Emilia-Romagna	Italy	23445
+NR-18550	2200 South Mckenzie St	Lafayette	Louisiana	United States	23448
+MK-17905	2001 Glenn Bldv Sw	Mixco	Guatemala	Guatemala	23451
+DB-13660	340 East Meighan Blvd	Basel	Basel-Stadt	Switzerland	23454
+PH-18790	890 Odum Road	Matola	Maputo	Mozambique	23457
+AB-10165	1608 W Magnolia Ave	Poitiers	Poitou-Charentes	France	23460
+CA-12055	501 Willow Lane	Seoul	Seoul	South Korea	23463
+JF-5295	170 Fort Morgan Road	Mulhouse	Alsace	France	23466
+KT-16465	11697 US Hwy 431	Milan	Lombardy	Italy	23469
+RB-9705	42417 Hwy 195	Jakarta	Jakarta	Indonesia	23472
+BD-1725	1706 Military Street South	New York City	New York	United States	23475
+EB-13705	1201 Hwy 31 NW	Vienna	Vienna	Austria	23478
+MG-17875	209 Lakeshore Parkway	Kota Kinabalu	Sabah	Malaysia	23481
+MG-17650	2780 John Hawkins Pkwy	Denver	Colorado	United States	23484
+AG-10270	5335 Hwy 280 South	Uberaba	Minas Gerais	Brazil	23487
+NP-8685	1007 Red Farmer Drive	Rueil-Malmaison	Ile-de-France	France	23490
+AS-630	2900 S Mem PkwyDrake Ave	Crawley	England	United Kingdom	23493
+SC-20680	11610 Memorial Pkwy South	Makurdi	Benue	Nigeria	23496
+MC-17590	2200 Sparkman Drive	Madrid	Madrid	Spain	23499
+TP-11415	330 Sutton Rd	Providence	Rhode Island	United States	23502
+HH-15010	6140A Univ Drive	Tallinn	Harjumaa	Estonia	23505
+BT-11485	4206 N College Ave	Hobart	Tasmania	Australia	23508
+EB-13870	1625 Pelham South	Swansea	Wales	United Kingdom	23511
+JP-15520	1801 Hwy 78 East	Paranaguá	Parana	Brazil	23514
+CM-2115	8551 Whitfield Ave	Samarinda	Kalimantan Timur	Indonesia	23517
+EA-14035	8650 Madison Blvd	Vijayawada	Andhra Pradesh	India	23520
+FH-14350	145 Kelley Blvd	Bandirma	Balikesir	Turkey	23523
+BS-1800	1970 S University Blvd	Bandung	Jawa Barat	Indonesia	23526
+AA-10375	6350 Cottage Hill Road	Whyalla	South Australia	Australia	23529
+BN-11515	101 South Beltline Highway	Gagnoa	Fromager	Cote d'Ivoire	23532
+EG-3900	2500 Dawes Road	Tegucigalpa	Francisco Morazán	Honduras	23535
+RE-19405	5245 Rangeline Service Rd	Villiers-le-Bel	Ile-de-France	France	23538
+ND-18460	685 Schillinger Rd	Brampton	Ontario	Canada	23541
+TT-21460	3371 S Alabama Ave	Columbia	Maryland	United States	23544
+ML-18040	10710 Chantilly Pkwy	Tlaquepaque	Jalisco	Mexico	23547
+JL-5505	3801 Eastern Blvd	Saint-Denis	Ile-de-France	France	23550
+SP-20545	6495 Atlanta Hwy	Depok	Jawa Barat	Indonesia	23553
+SF-10065	851 Ann St	Mangalore	Karnataka	India	23556
+AS-10045	15445 Highway 24	Sancti Spíritus	Sancti Spíritus	Cuba	23559
+TT-11220	517 West Avalon Ave	Johannesburg	Gauteng	South Africa	23562
+AH-10195	5710 Mcfarland Blvd	Shenzhen	Guangdong	China	23565
+KH-6630	2453 2Nd Avenue East	Villa Nueva	Guatemala	Guatemala	23568
+AA-10645	2900 Pepperrell Pkwy	Indaial	Santa Catarina	Brazil	23571
+JL-15130	92 Plaza Lane	Bergen	Hordaland	Norway	23574
+KM-6375	1537 Hwy 231 South	Riyadh	Ar Riyad	Saudi Arabia	23577
+LS-16975	2181 Pelham Pkwy	Newcastle	New South Wales	Australia	23580
+KL-16645	165 Vaughan Ln	Lahore	Punjab	Pakistan	23583
+EH-14185	3700 Hwy 280-431 N	Los Angeles	California	United States	23586
+KW-6570	1903 Cobbs Ford Rd	Mixco	Guatemala	Guatemala	23589
+DB-3060	4180 Us Hwy 431	London	England	United Kingdom	23592
+FA-14230	13675 Hwy 43	Lucerne	Lucerne	Switzerland	23595
+JF-15565	1095 Industrial Pkwy	Lakewood	New Jersey	United States	23598
+LO-7170	24833 Johnt Reidprkw	Fernando de la Mora	Central	Paraguay	23601
+KB-6315	1501 Hwy 14 East	Noblesville	Indiana	United States	23604
+BS-11755	7855 Moffett Rd	Malayer	Hamadan	Iran	23607
+RB-19465	150 Springville Station Blvd	Bundaberg	Queensland	Australia	23610
+HF-14995	690 Hwy 78	Bochum	North Rhine-Westphalia	Germany	23613
+MP-17965	41301 US Hwy 280	Mbuji-mayi	Kasai-Oriental	Democratic Republic of the Congo	23616
+JJ-15445	214 Haynes Street	Gwalior	Madhya Pradesh	India	23619
+LC-17140	1300 Gilmer Ave	Luoyang	Fujian	China	23622
+TT-11070	34301 Hwy 43	Southend-on-Sea	England	United Kingdom	23625
+BF-11020	1420 Us 231 South	Thionville	Lorraine	France	23628
+ES-14080	1501 Skyland Blvd E	San Francisco	California	United States	23631
+FC-14335	3501 20th Av	Srinagar	Jammu and Kashmir	India	23634
+TS-21160	1300 Montgomery Highway	Villa Nueva	Guatemala	Guatemala	23637
+RE-9450	4538 Us Hwy 231	Chicago	Illinois	United States	23640
+JC-15340	2575 Us Hwy 43	Gold Coast	Queensland	Australia	23643
+MH-17785	4180 Us Hwy 431	Thiruvananthapuram	Kerala	India	23646
+RF-19840	13675 Hwy 43	Allahabad	Uttar Pradesh	India	23649
+PG-18820	1095 Industrial Pkwy	Bekasi	Jawa Barat	Indonesia	23652
+DO-13645	24833 Johnt Reidprkw	Jakarta	Jakarta	Indonesia	23655
+SC-10305	1501 Hwy 14 East	Daloa	Haut-Sassandra	Cote d'Ivoire	23658
+TN-21040	7855 Moffett Rd	Saltillo	Coahuila	Mexico	23661
+DR-12880	150 Springville Station Blvd	Anaheim	California	United States	23664
+EB-3975	690 Hwy 78	Madrid	Madrid	Spain	23667
+NS-8505	41301 US Hwy 280	Woking	England	United Kingdom	23670
+SF-20065	214 Haynes Street	Baguio City	Cordillera	Philippines	23673
+RA-19285	1300 Gilmer Ave	Gorakhpur	Haryana	India	23676
+LT-17110	34301 Hwy 43	Morristown	New Jersey	United States	23679
+BF-11170	1420 Us 231 South	Indianapolis	Indiana	United States	23682
+AR-825	1501 Skyland Blvd E	Bangkok	Bangkok	Thailand	23685
+SD-20485	3501 20th Av	Shanghai	Shanghai	China	23688
+GW-4605	1300 Montgomery Highway	Mianyang	Sichuan	China	23691
+DB-13120	4538 Us Hwy 231	Magnitogorsk	Chelyabinsk	Russia	23694
+JC-5775	2575 Us Hwy 43	Santo Domingo	Santo Domingo	Dominican Republic	23697
+ND-8460	301 Massachusetts Ave	Varanasi	Uttar Pradesh	India	23700
+TC-11295	780 Lynnway	Serra	Espírito Santo	Brazil	23703
+DM-2955	70 Pleasant Valley Street	Florence	Tuscany	Italy	23706
+PJ-9015	830 Curran Memorial Hwy	Chennai	Tamil Nadu	India	23709
+JH-5820	1470 S Washington St	Raleigh	North Carolina	United States	23712
+ME-18010	506 State Road	Adelaide	South Australia	Australia	23715
+AH-10690	742 Main Street	Pescara	Abruzzi	Italy	23718
+RD-19660	72 Main St	New York City	New York	United States	23721
+CD-1980	200 Otis Street	Warwick	Rhode Island	United States	23724
+CL-2565	180 North King Street	Lahore	Punjab	Pakistan	23727
+MO-7800	555 East Main St	New York City	New York	United States	23730
+CR-2580	555 Hubbard Ave-Suite 12	Kuala Lumpur	Kuala Lumpur	Malaysia	23733
+TC-10980	300 Colony Place	Kuantan	Pahang	Malaysia	23736
+RD-9900	301 Falls Blvd	Chittagong	Chittagong	Bangladesh	23739
+CS-12250	36 Paramount Drive	Monclova	Coahuila	Mexico	23742
+CH-12070	450 Highland Ave	São Paulo	São Paulo	Brazil	23745
+JF-15355	1180 Fall River Avenue	Jakarta	Jakarta	Indonesia	23748
+AS-135	1105 Boston Road	New York City	New York	United States	23751
+SP-20620	100 Charlton Road	Worthing	England	United Kingdom	23754
+EC-14050	262 Swansea Mall Dr	Mixco	Guatemala	Guatemala	23757
+IG-5085	333 Main Street	Paris	Ile-de-France	France	23760
+TB-21355	550 Providence Hwy	Lençóis Paulista	São Paulo	Brazil	23763
+MH-17620	352 Palmer Road	Coffs Harbour	New South Wales	Australia	23766
+GT-14755	3005 Cranberry Hwy Rt 6 28	Lublin	Lublin	Poland	23769
+DF-13135	250 Rt 59	Baghdad	Baghdad	Iraq	23772
+AS-240	141 Washington Ave Extension	San Severo	Apulia	Italy	23775
+PG-8820	13858 Rt 31 W	San Luis	San Luis	Argentina	23778
+JS-6030	2055 Niagara Falls Blvd	Guangzhou	Guangdong	China	23781
+SS-20590	101 Sanford Farm Shpg Center	Tiruppur	Tamil Nadu	India	23784
+CS-2490	297 Grant Avenue	Newark	Ohio	United States	23787
+CM-2715	4133 Veterans Memorial Drive	San Luis Potosí	San Luis Potosí	Mexico	23790
+BM-1140	6265 Brockport Spencerport Rd	Chicago	Illinois	United States	23793
+RD-19720	5399 W Genesse St	Brisbane	Queensland	Australia	23796
+LD-17005	3191 County rd 10	Le Chesnay	Ile-de-France	France	23799
+EB-3705	30 Catskill	New York City	New York	United States	23802
+RH-19555	161 Centereach Mall	Prague	Prague	Czech Republic	23805
+JP-6135	3018 East Ave	Lansing	Michigan	United States	23808
+PB-9210	100 Thruway Plaza	Whyalla	South Australia	Australia	23811
+LC-16960	8064 Brewerton Rd	Dieppe	Upper Normandy	France	23814
+JC-15385	5033 Transit Road	Gap	Provence-Alpes-Côte d'Azur	France	23817
+IL-15100	3949 Route 31	San Francisco	California	United States	23820
+SW-10245	139 Merchant Place	Redlands	California	United States	23823
+CP-2340	85 Crooked Hill Road	Shuangcheng	Heilongjiang	China	23826
+NS-18640	872 Route 13	Shenzhen	Guangdong	China	23829
+TR-21325	279 Troy Road	Bangui	Bangui	Central African Republic	23832
+NF-8385	2465 Hempstead Turnpike	Hastings	Hawke's Bay	New Zealand	23835
+TZ-21580	6438 Basile Rowe	Oakland	California	United States	23838
+TB-11055	25737 US Rt 11	Los Angeles	California	United States	23841
+AJ-10795	901 Route 110	Irapuato	Guanajuato	Mexico	23844
+GH-14485	2400 Route 9	Xinyi	Guangdong	China	23847
+AG-10300	10401 Bennett Road	Marseille	Provence-Alpes-Côte d'Azur	France	23850
+EH-3945	1818 State Route 3	Beijing	Beijing	China	23853
+JD-6150	4300 Lakeville Road	Bhilwara	Rajasthan	India	23856
+KH-16360	990 Route 5 20	San Francisco	California	United States	23859
+JB-6045	311 RT 9W	Antwerp	Antwerp	Belgium	23862
+AH-585	200 Dutch Meadows Ln	Seattle	Washington	United States	23865
+MS-7530	100 Elm Ridge Center Dr	Springfield	Virginia	United States	23868
+HA-14905	1549 Rt 9	Newcastle	New South Wales	Australia	23871
+JG-15310	5360 Southwestern Blvd	Orange	New South Wales	Australia	23874
+CD-1920	103 North Caroline St	Barcelona	Catalonia	Spain	23877
+TC-21535	1000 State Route 36	Napier	Hawke's Bay	New Zealand	23880
+PB-9105	1400 County Rd 64	Torreón	Coahuila	Mexico	23883
+AR-10405	135 Fairgrounds Memorial Pkwy	Noda	Chiba	Japan	23886
+NK-18490	2 Gannett Dr	Porto-Novo	Ouémé	Benin	23889
+MG-7695	233 5th Ave Ext	Puebla	Puebla	Mexico	23892
+AJ-10945	601 Frank Stottile Blvd	New York City	New York	United States	23895
+RS-19420	350 E Fairmount Ave	Outreau	Nord-Pas-de-Calais	France	23898
+SC-20770	4975 Transit Rd	Burlington	Vermont	United States	23901
+LM-17065	579 Troy-Schenectady Road	León	León	Nicaragua	23904
+DP-13000	5783 So Transit Road	Muskogee	Oklahoma	United States	23907
+RD-9660	7155 State Rt 12 S	Bourg-en-Bresse	Rhône-Alpes	France	23910
+LB-16735	425 Route 31	Mulhouse	Alsace	France	23913
+MZ-17515	3222 State Rt 11	Columbia	Maryland	United States	23916
+ER-3855	200 Sunrise Mall	Geelong	Victoria	Australia	23919
+MS-17710	43 Stephenville St	Americana	São Paulo	Brazil	23922
+LC-6960	750 Middle Country Road	Melbourne	Victoria	Australia	23925
+GZ-14545	470 Route 211 East	Kashan	Esfahan	Iran	23928
+JK-5625	3133 E Main St	Gold Coast	Queensland	Australia	23931
+JJ-15760	288 Larkin	Sunbury	Victoria	Australia	23934
+CA-2265	41 Anawana Lake Road	Guangzhou	Guangdong	China	23937
+CC-2220	4765 Commercial Drive	Herford	North Rhine-Westphalia	Germany	23940
+KL-6555	1201 Rt 300	Chesapeake	Virginia	United States	23943
+CS-2175	255 W Main St	Cairns	Queensland	Australia	23946
+KL-16555	120 Commercial Parkway	L'viv	L'viv	Ukraine	23949
+RD-9810	1400 Farmington Ave	Oslo	Oslo	Norway	23952
+AJ-945	161 Berlin Road	New York City	New York	United States	23955
+CC-2685	67 Newton Rd	Geelong	Victoria	Australia	23958
+LO-17170	656 New Haven Ave	Arbil	Arbil	Iraq	23961
+DE-13255	69 Prospect Hill Road	Philadelphia	Pennsylvania	United States	23964
+RF-9345	150 Gold Star Hwy	Des Moines	Washington	United States	23967
+SC-20020	900 Boston Post Road	Brisbane	Queensland	Australia	23970
+DW-13585	2300 Dixwell Ave	Bradford	England	United Kingdom	23973
+EM-4065	495 Flatbush Ave	San Pedro de Macorís	San Pedro de Macorís	Dominican Republic	23976
+TD-20995	180 River Rd	Estelí	Estelí	Nicaragua	23979
+BD-11320	420 Buckland Hills Dr	London	England	United Kingdom	23982
+CW-11905	1365 Boston Post Road	Matagalpa	Matagalpa	Nicaragua	23985
+CK-2325	1100 New Haven Road	San Sebastian	Basque Country	Spain	23988
+BP-11095	315 Foxon Blvd	Schiltigheim	Alsace	France	23991
+DV-3465	164 Danbury Rd	Paris	Ile-de-France	France	23994
+MY-7380	3164 Berlin Turnpike	Milwaukee	Wisconsin	United States	23997
+PB-9150	474 Boston Post Road	Depok	Jawa Barat	Indonesia	24000
+AG-10390	650 Main Ave	Consolación del Sur	Pinar del Río	Cuba	24003
+KW-16570	680 Connecticut Avenue	Tangier	Tanger-Tétouan	Morocco	24006
+JF-5190	220 Salem Turnpike	Oruro	Oruro	Bolivia	24009
+GB-14575	655 Boston Post Rd	Munich	Bavaria	Germany	24012
+MR-7545	625 School Street	Malegaon	Maharashtra	India	24015
+MO-17950	80 Town Line Rd	Euskirchen	North Rhine-Westphalia	Germany	24018
+TA-11385	465 Bridgeport Avenue	Sakai	Gunma	Japan	24021
+JM-5655	235 Queen St	Celle	Lower Saxony	Germany	24024
+JS-5880	150 Barnum Avenue Cutoff	Kota Kinabalu	Sabah	Malaysia	24027
+HP-14815	970 Torringford Street	Blagoveshchensk	Amur	Russia	24030
+CS-12400	844 No Colony Road	Tijuana	Baja California	Mexico	24033
+DE-3255	910 Wolcott St	Philadelphia	Pennsylvania	United States	24036
+JD-6015	155 Waterford Parkway No	Delhi	Delhi	India	24039
+CR-2730	515 Sawmill Road	Tianjin	Tianjin	China	24042
+RC-9960	2473 Hackworth Road	Hyderabad	Telangana	India	24045
+AO-10810	630 Coonial Promenade Pkwy	Kota Kinabalu	Sabah	Malaysia	24048
+TB-11250	2643 Hwy 280 West	Villeneuve-Saint-Georges	Ile-de-France	France	24051
+RA-9285	540 West Bypass	London	England	United Kingdom	24054
+MG-8205	5560 Mcclellan Blvd	Takasaki	Gunma	Japan	24057
+MY-8295	1450 No Brindlee Mtn Pkwy	Houston	Texas	United States	24060
+SR-20425	1011 US Hwy 72 East	London	England	United Kingdom	24063
+BT-1530	973 Gilbert Ferry Road Se	San Salvador	San Salvador	El Salvador	24066
+LS-7245	1717 South College Street	Khorramabad	Lorestan	Iran	24069
+AB-10255	701 Mcmeans Ave	Doha	Ad Dawhah	Qatar	24072
+TH-21115	750 Academy Drive	Bhilai	Chhattisgarh	India	24075
+LC-6885	312 Palisades Blvd	Santa Barbara	California	United States	24078
+AC-660	1600 Montclair Rd	Shouguang	Shandong	China	24081
+EM-14095	5919 Trussville Crossings Pkwy	Gold Coast	Queensland	Australia	24084
+BO-11350	9248 Parkway East	New York City	New York	United States	24087
+DM-3015	1972 Hwy 431	Bordeaux	Aquitaine	France	24090
+DD-13570	10675 Hwy 5	Rochester	New York	United States	24093
+KN-16705	2041 Douglas Avenue	Durres	Durrës	Albania	24096
+HM-14980	5100 Hwy 31	Frankfurt	Hesse	Germany	24099
+FM-4215	1916 Center Point Rd	Shanghai	Shanghai	China	24102
+JO-15145	1950 W Main St	Kunming	Yunnan	China	24105
+TC-11535	16077 Highway 280	Puebla	Puebla	Mexico	24108
+JK-15205	1415 7Th Street South	Wellington	Wellington	New Zealand	24111
+DA-3450	626 Olive Street Sw	Anqing	Anhui	China	24114
+DB-12910	27520 Hwy 98	Ho Chi Minh City	Ho Chí Minh City	Vietnam	24117
+EH-4005	2800 Spring Avn SW	Dar es Salaam	Dar Es Salaam	Tanzania	24120
+DN-13690	969 Us Hwy 80 West	Victoria	Tamaulipas	Mexico	24123
+AS-10135	3300 South Oates Street	Delhi	Delhi	India	24126
+MC-18130	4310 Montgomery Hwy	Anshan	Liaoning	China	24129
+MM-18280	600 Boll Weevil Circle	San Gabriel	California	United States	24132
+RL-9615	3176 South Eufaula Avenue	Copiapó	Atacama	Chile	24135
+MA-7560	7100 Aaron Aronov Drive	Cincinnati	Ohio	United States	24138
+HG-4845	10040 County Road 48	Ensenada	Baja California	Mexico	24141
+PB-8805	3186 Hwy 171 North	Camagüey	Camagüey	Cuba	24144
+RW-19630	3100 Hough Rd	La Romana	La Romana	Dominican Republic	24147
+BT-11440	2200 South Mckenzie St	Fort-de-France	Martinique	Martinique	24150
+JC-5385	2001 Glenn Bldv Sw	Dudley	England	United Kingdom	24153
+HR-4770	340 East Meighan Blvd	Kingswood	England	United Kingdom	24156
+DB-3615	890 Odum Road	Adelaide	South Australia	Australia	24159
+JK-6120	1608 W Magnolia Ave	London	England	United Kingdom	24162
+SW-20455	501 Willow Lane	Trier	Rhineland-Palatinate	Germany	24165
+GH-4425	170 Fort Morgan Road	Leeds	England	United Kingdom	24168
+GB-4575	11697 US Hwy 431	Luoyang	Guangdong	China	24171
+PA-19060	42417 Hwy 195	Petrópolis	Rio de Janeiro	Brazil	24174
+CA-2775	1706 Military Street South	Vantaa	Uusimaa	Finland	24177
+CV-12295	1201 Hwy 31 NW	Watertown	New York	United States	24180
+PO-9180	209 Lakeshore Parkway	Taipei	Taipei City	Taiwan	24183
+NC-18535	2780 John Hawkins Pkwy	Seattle	Washington	United States	24186
+GZ-4470	5335 Hwy 280 South	Noisy-le-Grand	Ile-de-France	France	24189
+AM-360	1007 Red Farmer Drive	Homs	Hims	Syria	24192
+AA-480	2900 S Mem PkwyDrake Ave	Liaoyang	Liaoning	China	24195
+TB-21595	11610 Memorial Pkwy South	Fayetteville	North Carolina	United States	24198
+KH-16630	2200 Sparkman Drive	Taupo	Waikato	New Zealand	24201
+TS-21655	330 Sutton Rd	Araguaína	Tocantins	Brazil	24204
+CD-11980	6140A Univ Drive	Bangkok	Bangkok	Thailand	24207
+DB-13360	4206 N College Ave	Denpasar	Bali	Indonesia	24210
+SK-9990	1625 Pelham South	New York City	New York	United States	24213
+PT-19090	1801 Hwy 78 East	Pretoria	Gauteng	South Africa	24216
+EH-13990	8551 Whitfield Ave	Mexico City	Distrito Federal	Mexico	24219
+ME-17725	8650 Madison Blvd	Gold Coast	Queensland	Australia	24222
+ZD-21925	145 Kelley Blvd	Toulon	Provence-Alpes-Côte d'Azur	France	24225
+MW-8235	1970 S University Blvd	Pune	Maharashtra	India	24228
+BP-11050	6350 Cottage Hill Road	Tucson	Arizona	United States	24231
+RC-19960	101 South Beltline Highway	Miami	Florida	United States	24234
+PN-8775	2500 Dawes Road	Goyang	Gyeonggi	South Korea	24237
+CB-12535	5245 Rangeline Service Rd	Kalyan	Maharashtra	India	24240
+LR-7035	685 Schillinger Rd	Mejicanos	San Salvador	El Salvador	24243
+JG-5160	3371 S Alabama Ave	Sydney	New South Wales	Australia	24246
+SC-10845	10710 Chantilly Pkwy	Kendari	Sulawesi Tenggara	Indonesia	24249
+DK-13225	3801 Eastern Blvd	Casablanca	Grand Casablanca	Morocco	24252
+CG-2520	6495 Atlanta Hwy	Khulna	Khulna	Bangladesh	24255
+RS-19870	851 Ann St	Medan	Sumatera Utara	Indonesia	24258
+DK-2835	15445 Highway 24	Avadi	Tamil Nadu	India	24261
+CM-2385	517 West Avalon Ave	Semarang	Jawa Tengah	Indonesia	24264
+JE-5745	5710 Mcfarland Blvd	Stuttgart	Baden-Württemberg	Germany	24267
+CA-1965	2453 2Nd Avenue East	Hamilton	Waikato	New Zealand	24270
+Dl-3600	2900 Pepperrell Pkwy	Kinshasa	Kinshasa	Democratic Republic of the Congo	24273
+DL-2865	92 Plaza Lane	Lyon	Rhône-Alpes	France	24276
+CM-2445	1537 Hwy 231 South	Lille	Nord-Pas-de-Calais	France	24279
+DB-13270	2181 Pelham Pkwy	Chelyabinsk	Chelyabinsk	Russia	24282
+EB-4110	165 Vaughan Ln	Zhanjiang	Guangdong	China	24285
+BD-11620	969 Us Hwy 80 West	Marseille	Provence-Alpes-Côte d'Azur	France	24288
+MN-7935	3300 South Oates Street	Santo Domingo	Santo Domingo	Dominican Republic	24291
+DB-2910	4310 Montgomery Hwy	Greenville	North Carolina	United States	24294
+LH-7155	600 Boll Weevil Circle	Mejicanos	San Salvador	El Salvador	24297
+JS-5940	3176 South Eufaula Avenue	Jakarta	Jakarta	Indonesia	24300
+GH-4410	7100 Aaron Aronov Drive	Berlin	Berlin	Germany	24303
+SC-10380	10040 County Road 48	Yueyang	Hunan	China	24306
+SL-10155	3186 Hwy 171 North	Pueblo	Colorado	United States	24309
+EK-3795	3100 Hough Rd	Tijuana	Baja California	Mexico	24312
+PH-8790	2200 South Mckenzie St	Surabaya	Jawa Timur	Indonesia	24315
+HD-4785	2001 Glenn Bldv Sw	Algiers	Alger	Algeria	24318
+CM-2190	340 East Meighan Blvd	Townsville	Queensland	Australia	24321
+AR-570	890 Odum Road	Pretoria	Gauteng	South Africa	24324
+BT-1305	1608 W Magnolia Ave	Melbourne	Victoria	Australia	24327
+MH-7785	501 Willow Lane	Reutlingen	Baden-Württemberg	Germany	24330
+SC-10260	170 Fort Morgan Road	Canberra	Australian Capital Territory	Australia	24333
+LW-7125	11697 US Hwy 431	Soyapango	San Salvador	El Salvador	24336
+SM-10905	42417 Hwy 195	Arras	Nord-Pas-de-Calais	France	24339
+TT-21265	1706 Military Street South	Townsville	Queensland	Australia	24342
+EJ-3720	1201 Hwy 31 NW	Matsudo	Chiba	Japan	24345
+RS-9765	209 Lakeshore Parkway	Kuala Lumpur	Kuala Lumpur	Malaysia	24348
+EM-4095	2780 John Hawkins Pkwy	Bayamo	Granma	Cuba	24351
+AJ-10960	5335 Hwy 280 South	Reynosa	Tamaulipas	Mexico	24354
+BD-1770	1007 Red Farmer Drive	Chester	England	United Kingdom	24357
+BE-1410	2900 S Mem PkwyDrake Ave	Rostock	Mecklenburg-Vorpommern	Germany	24360
+KC-6255	11610 Memorial Pkwy South	San Luis	San Luis	Argentina	24363
+DV-3045	2200 Sparkman Drive	Namur	Namur	Belgium	24366
+JD-5895	330 Sutton Rd	Aachen	North Rhine-Westphalia	Germany	24369
+JM-5865	6140A Univ Drive	Jakarta	Jakarta	Indonesia	24372
+JK-5205	4206 N College Ave	Boulogne-Billancourt	Ile-de-France	France	24375
+CL-2700	1625 Pelham South	Melbourne	Victoria	Australia	24378
+GG-4650	1801 Hwy 78 East	Ballarat	Victoria	Australia	24381
+LS-6945	8551 Whitfield Ave	Gold Coast	Queensland	Australia	24384
+JL-5850	8650 Madison Blvd	Vienna	Vienna	Austria	24387
+VP-11760	145 Kelley Blvd	Rasht	Gilan	Iran	24390
+NF-8595	1970 S University Blvd	Columbia	Maryland	United States	24393
+LE-16810	6350 Cottage Hill Road	Paris	Ile-de-France	France	24396
+JJ-5445	101 South Beltline Highway	Oyonnax	Rhône-Alpes	France	24399
+CS-2130	2500 Dawes Road	New York City	New York	United States	24402
+BM-1575	5245 Rangeline Service Rd	Managua	Managua	Nicaragua	24405
+AC-615	685 Schillinger Rd	Lowell	Massachusetts	United States	24408
+HG-5025	3371 S Alabama Ave	Los Angeles	California	United States	24411
+TB-11400	10710 Chantilly Pkwy	Grajaú	Maranhão	Brazil	24414
+RB-9330	3801 Eastern Blvd	Barcelona	Catalonia	Spain	24417
+JP-5460	6495 Atlanta Hwy	Luoyang	Fujian	China	24420
+JL-5175	851 Ann St	Koshigaya	Saitama	Japan	24423
+AA-315	15445 Highway 24	Beirut	Beirut	Lebanon	24426
+TS-11370	517 West Avalon Ave	Wollongong	New South Wales	Australia	24429
+SS-10140	5710 Mcfarland Blvd	Sydney	New South Wales	Australia	24432
+DP-3000	2453 2Nd Avenue East	Jixi	Heilongjiang	China	24435
+JS-5685	2900 Pepperrell Pkwy	Huelva	Andalusía	Spain	24438
+PW-19240	92 Plaza Lane	Luoyang	Fujian	China	24441
+NW-8400	1537 Hwy 231 South	Alexandria	Al Iskandariyah	Egypt	24444
+TS-11340	2181 Pelham Pkwy	Geelong	Victoria	Australia	24447
+JH-5985	165 Vaughan Ln	Hefei	Anhui	China	24450
+NG-8355	3700 Hwy 280-431 N	Louisville	Kentucky	United States	24453
+FP-14320	1903 Cobbs Ford Rd	Valenzuela	National Capital	Philippines	24456
+SH-20395	4180 Us Hwy 431	Los Angeles	California	United States	24459
+JP-16135	13675 Hwy 43	Thanjavur	Tamil Nadu	India	24462
+JM-5250	1095 Industrial Pkwy	San Luis Potosí	San Luis Potosí	Mexico	24465
+MA-7995	24833 Johnt Reidprkw	Tegal	Jawa Tengah	Indonesia	24468
+DR-2940	1501 Hwy 14 East	Los Angeles	California	United States	24471
+BF-1020	7855 Moffett Rd	Rome	Lazio	Italy	24474
+CS-2400	150 Springville Station Blvd	Phnom Penh	Phnom Penh	Cambodia	24477
+JM-15535	690 Hwy 78	Gold Coast	Queensland	Australia	24480
+JS-15940	41301 US Hwy 280	Kitchener	Ontario	Canada	24483
+AF-870	214 Haynes Street	Melbourne	Victoria	Australia	24486
+NP-8670	1300 Gilmer Ave	Seattle	Washington	United States	24489
+SU-10665	34301 Hwy 43	Sevran	Ile-de-France	France	24492
+RD-9585	1420 Us 231 South	Hastings	England	United Kingdom	24495
+TP-21565	1501 Skyland Blvd E	Halmstad	Halland	Sweden	24498
+LA-6780	3501 20th Av	Amstelveen	North Holland	Netherlands	24501
+LH-7020	1300 Montgomery Highway	Portici	Campania	Italy	24504
+JE-5475	4538 Us Hwy 231	Toledo	Ohio	United States	24507
+ES-4080	2575 Us Hwy 43	Sparks	Nevada	United States	24510
+EM-4140	4180 Us Hwy 431	Khulna	Khulna	Bangladesh	24513
+DS-13030	13675 Hwy 43	Roswell	Georgia	United States	24516
+ZD-11925	1095 Industrial Pkwy	Murray Bridge	South Australia	Australia	24519
+JO-5550	24833 Johnt Reidprkw	Tengzhou	Shandong	China	24522
+TB-11595	1501 Hwy 14 East	Bagneux	Ile-de-France	France	24525
+GM-4500	7855 Moffett Rd	Duisburg	North Rhine-Westphalia	Germany	24528
+DD-3570	150 Springville Station Blvd	Balikpapan	Kalimantan Timur	Indonesia	24531
+FH-4365	690 Hwy 78	Bhatinda	Punjab	India	24534
+MK-18160	41301 US Hwy 280	Bandung	Jawa Barat	Indonesia	24537
+NM-8445	214 Haynes Street	Poza Rica de Hidalgo	Veracruz	Mexico	24540
+JF-5355	1300 Gilmer Ave	Le Petit-Quevilly	Upper Normandy	France	24543
+BF-975	34301 Hwy 43	Colmar	Alsace	France	24546
+SS-20875	1420 Us 231 South	Bekasi	Jawa Barat	Indonesia	24549
+PF-9165	1501 Skyland Blvd E	Madrid	Madrid	Spain	24552
+SV-10365	3501 20th Av	Rome	Lazio	Italy	24555
+BB-10990	1300 Montgomery Highway	Clichy-sous-Bois	Ile-de-France	France	24558
+PW-9240	4538 Us Hwy 231	La Seyne-sur-Mer	Provence-Alpes-Côte d'Azur	France	24561
+JF-15490	2575 Us Hwy 43	Antipolo	Calabarzon	Philippines	24564
+CW-1905	301 Massachusetts Ave	Luoyang	Guangdong	China	24567
+LC-7140	780 Lynnway	Creil	Picardy	France	24570
+HK-4890	70 Pleasant Valley Street	Curitiba	Parana	Brazil	24573
+BT-1440	830 Curran Memorial Hwy	Sale	Rabat-Salé-Zemmour-Zaer	Morocco	24576
+RD-19810	1470 S Washington St	Albury	New South Wales	Australia	24579
+KL-6645	506 State Road	Kutahya	Kutahya	Turkey	24582
+VG-11805	742 Main Street	Seattle	Washington	United States	24585
+PF-9225	72 Main St	Daqing	Heilongjiang	China	24588
+AB-15	200 Otis Street	Waynesboro	Virginia	United States	24591
+LW-6990	180 North King Street	Yaounde	Centre	Cameroon	24594
+PS-8970	555 East Main St	Chicago	Illinois	United States	24597
+LW-17125	555 Hubbard Ave-Suite 12	Elx	Valenciana	Spain	24600
+MC-7590	300 Colony Place	Vienna	Vienna	Austria	24603
+JO-15550	301 Falls Blvd	Rockhampton	Queensland	Australia	24606
+SJ-10125	36 Paramount Drive	Cranston	Rhode Island	United States	24609
+SS-20515	450 Highland Ave	Brisbane	Queensland	Australia	24612
+RB-19645	1180 Fall River Avenue	Accra	Greater Accra	Ghana	24615
+BP-1050	1105 Boston Road	Conselheiro Lafaiete	Minas Gerais	Brazil	24618
+PG-8895	100 Charlton Road	Jiangdu	Jiangsu	China	24621
+RM-19750	262 Swansea Mall Dr	Mackay	Queensland	Australia	24624
+KM-6225	333 Main Street	Kinshasa	Kinshasa	Democratic Republic of the Congo	24627
+AH-120	550 Providence Hwy	Cochabamba	Cochabamba	Bolivia	24630
+BM-1785	352 Palmer Road	Puebla	Puebla	Mexico	24633
+NR-8550	3005 Cranberry Hwy Rt 6 28	Wolverhampton	England	United Kingdom	24636
+EB-14170	250 Rt 59	Hamburg	Hamburg	Germany	24639
+PB-19150	141 Washington Ave Extension	Tegucigalpa	Francisco Morazán	Honduras	24642
+TP-11130	13858 Rt 31 W	Guangzhou	Guangdong	China	24645
+KN-6450	2055 Niagara Falls Blvd	San Francisco	California	United States	24648
+RD-9720	101 Sanford Farm Shpg Center	Mumbai	Maharashtra	India	24651
+RS-9870	297 Grant Avenue	Stuttgart	Baden-Württemberg	Germany	24654
+EB-3840	4133 Veterans Memorial Drive	Himeji	Hyogo	Japan	24657
+TC-21475	6265 Brockport Spencerport Rd	Caloundra	Queensland	Australia	24660
+BH-1710	5399 W Genesse St	Philadelphia	Pennsylvania	United States	24663
+MH-7620	3191 County rd 10	Talcahuano	Biobio	Chile	24666
+PT-9090	30 Catskill	Santiago	Santiago	Chile	24669
+DC-2850	161 Centereach Mall	Jakarta	Jakarta	Indonesia	24672
+AG-900	3018 East Ave	Nairobi	Nairobi	Kenya	24675
+DC-12850	100 Thruway Plaza	Adelaide	South Australia	Australia	24678
+JF-5565	8064 Brewerton Rd	Springfield	Virginia	United States	24681
+SR-10740	5033 Transit Road	Hyderabad	Telangana	India	24684
+MK-7905	3949 Route 31	Aurora	Illinois	United States	24687
+JK-5370	139 Merchant Place	San Salvador	San Salvador	El Salvador	24690
+GM-4680	85 Crooked Hill Road	Dhaka	Dhaka	Bangladesh	24693
+PC-9000	872 Route 13	Houston	Texas	United States	24696
+DL-3315	279 Troy Road	Lancaster	Ohio	United States	24699
+JL-5235	2465 Hempstead Turnpike	Qingdao	Shandong	China	24702
+BB-990	6438 Basile Rowe	New Plymouth	Taranaki	New Zealand	24705
+RP-9390	25737 US Rt 11	Sesto San Giovanni	Lombardy	Italy	24708
+ES-4020	901 Route 110	Mexico City	Distrito Federal	Mexico	24711
+MH-7455	2400 Route 9	Mexicali	Baja California	Mexico	24714
+JD-5790	10401 Bennett Road	Bayamo	Granma	Cuba	24717
+DB-3270	1818 State Route 3	Florence	Alabama	United States	24720
+PK-9075	4300 Lakeville Road	San Francisco	California	United States	24723
+NM-8520	990 Route 5 20	Velletri	Lazio	Italy	24726
+MO-7500	311 RT 9W	Tangshan	Hebei	China	24729
+SG-10890	200 Dutch Meadows Ln	Aurangabad	Bihar	India	24732
+MF-8250	100 Elm Ridge Center Dr	Kabul	Kabul	Afghanistan	24735
+JG-5310	1549 Rt 9	Ho Chi Minh City	Ho Chí Minh City	Vietnam	24738
+YS-11880	5360 Southwestern Blvd	Shanghai	Shanghai	China	24741
+FC-4245	103 North Caroline St	Edmonton	Alberta	Canada	24744
+BW-1110	1000 State Route 36	Lismore	New South Wales	Australia	24747
+BS-1590	1400 County Rd 64	Geelong	Victoria	Australia	24750
+CS-2460	135 Fairgrounds Memorial Pkwy	Sikasso	Sikasso	Mali	24753
+MH-7290	2 Gannett Dr	Bandung	Jawa Barat	Indonesia	24756
+KE-6420	233 5th Ave Ext	Burlington	Vermont	United States	24759
+AJ-780	601 Frank Stottile Blvd	Macapá	Amapá	Brazil	24762
+MM-7920	350 E Fairmount Ave	Nottingham	England	United Kingdom	24765
+ML-8265	4975 Transit Rd	Santo Domingo	Santo Domingo	Dominican Republic	24768
+RR-9315	579 Troy-Schenectady Road	Mandurah	Western Australia	Australia	24771
+JF-5490	5783 So Transit Road	Venice	Veneto	Italy	24774
+AG-765	7155 State Rt 12 S	Dormagen	North Rhine-Westphalia	Germany	24777
+DS-3030	425 Route 31	Bilbao	Basque Country	Spain	24780
+AH-75	3222 State Rt 11	Coyoacán	Distrito Federal	Mexico	24783
+NB-18580	200 Sunrise Mall	Medan	Sumatera Utara	Indonesia	24786
+KD-6270	43 Stephenville St	Whyalla	South Australia	Australia	24789
+MJ-7740	750 Middle Country Road	Bagcilar	Istanbul	Turkey	24792
+DM-3525	470 Route 211 East	Dar es Salaam	Dar Es Salaam	Tanzania	24795
+GH-4665	3133 E Main St	Morelia	Michoacán	Mexico	24798
+RM-9675	288 Larkin	Sydney	New South Wales	Australia	24801
+TS-11610	41 Anawana Lake Road	Bressuire	Poitou-Charentes	France	24804
+PR-8880	4765 Commercial Drive	Swansea	Wales	United Kingdom	24807
+HP-4815	1201 Rt 300	Perth	Western Australia	Australia	24810
+EC-4050	255 W Main St	Edinburgh	Scotland	United Kingdom	24813
+BF-1005	120 Commercial Parkway	Houilles	Ile-de-France	France	24816
+SC-10050	1400 Farmington Ave	Chelyabinsk	Chelyabinsk	Russia	24819
+DM-3345	161 Berlin Road	Guangzhou	Guangdong	China	24822
+CD-2280	67 Newton Rd	Solapur	Maharashtra	India	24825
+BP-1095	656 New Haven Ave	Pretoria	Gauteng	South Africa	24828
+TC-11475	69 Prospect Hill Road	Oyonnax	Rhône-Alpes	France	24831
+DW-3540	150 Gold Star Hwy	Toulon	Provence-Alpes-Côte d'Azur	France	24834
+BE-1455	900 Boston Post Road	Ivry-sur-Seine	Ile-de-France	France	24837
+AH-195	2300 Dixwell Ave	London	England	United Kingdom	24840
+DO-3645	495 Flatbush Ave	Luoyang	Guangdong	China	24843
+CA-2055	180 River Rd	Capannori	Tuscany	Italy	24846
+LP-7080	420 Buckland Hills Dr	Depok	Yogyakarta	Indonesia	24849
+BN-1515	1365 Boston Post Road	Kawagoe	Saitama	Japan	24852
+NK-8490	1100 New Haven Road	Depok	Yogyakarta	Indonesia	24855
+AR-510	315 Foxon Blvd	Sydney	New South Wales	Australia	24858
+VM-11835	164 Danbury Rd	Qingdao	Shandong	China	24861
+TH-11115	3164 Berlin Turnpike	Yangzhou	Jiangsu	China	24864
+AB-165	474 Boston Post Road	Madrid	Madrid	Spain	24867
+LB-6735	650 Main Ave	Monterrey	Nuevo León	Mexico	24870
+GA-4515	680 Connecticut Avenue	Raipur	Uttarakhand	India	24873
+DJ-3630	220 Salem Turnpike	Ann Arbor	Michigan	United States	24876
+LT-6765	655 Boston Post Rd	San Francisco	California	United States	24879
+SG-10080	625 School Street	Misratah	Misratah	Libya	24882
+TB-11175	80 Town Line Rd	Bangkok	Bangkok	Thailand	24885
+AP-915	465 Bridgeport Avenue	Mixco	Guatemala	Guatemala	24888
+ON-8715	235 Queen St	Managua	Managua	Nicaragua	24891
+SB-10290	150 Barnum Avenue Cutoff	Tlalpan	Distrito Federal	Mexico	24894
+AJ-795	970 Torringford Street	Matanzas	Matanzas	Cuba	24897
+TP-11565	844 No Colony Road	Can Tho	T?nh C?n Th?	Vietnam	24900
+ML-8040	910 Wolcott St	Greenwood	Indiana	United States	24903
+LC-6870	155 Waterford Parkway No	Morelia	Michoacán	Mexico	24906
+AB-105	515 Sawmill Road	Santiago de Cuba	Santiago de Cuba	Cuba	24909
+AW-840	2473 Hackworth Road	Las Tunas	Las Tunas	Cuba	24912
+JO-5280	630 Coonial Promenade Pkwy	Phoenix	Arizona	United States	24915
+ME-7320	2643 Hwy 280 West	Vienna	Vienna	Austria	24918
+SW-10455	540 West Bypass	San Diego	California	United States	24921
+LP-7095	5560 Mcclellan Blvd	Villeneuve-le-Roi	Ile-de-France	France	24924
+DW-3195	1450 No Brindlee Mtn Pkwy	Vitrolles	Provence-Alpes-Côte d'Azur	France	24927
+SC-10770	1011 US Hwy 72 East	Tiruchchirappalli	Tamil Nadu	India	24930
+HE-4800	973 Gilbert Ferry Road Se	Hengyang	Hunan	China	24933
+DL-3495	1717 South College Street	New York City	New York	United States	24936
+EJ-4155	701 Mcmeans Ave	Jakarta	Jakarta	Indonesia	24939
+JH-6180	750 Academy Drive	Woking	England	United Kingdom	24942
+DK-3150	312 Palisades Blvd	Hialeah	Florida	United States	24945
+XP-11865	1600 Montclair Rd	Singapore	Singapore	Singapore	24948
+KT-6480	5919 Trussville Crossings Pkwy	Mixco	Guatemala	Guatemala	24951
+MB-8085	9248 Parkway East	Albury	New South Wales	Australia	24954
+AR-345	1972 Hwy 431	London	England	United Kingdom	24957
+BD-1320	10675 Hwy 5	Mexico City	Distrito Federal	Mexico	24960
+DP-3165	2041 Douglas Avenue	Johannesburg	Gauteng	South Africa	24963
+KD-6495	5100 Hwy 31	Port Elizabeth	Eastern Cape	South Africa	24966
+CK-2595	1916 Center Point Rd	Rome	Lazio	Italy	24969
+SB-10170	1950 W Main St	Marietta	Georgia	United States	24972
+JJ-5760	16077 Highway 280	Reynosa	Tamaulipas	Mexico	24975
+GH-4485	1415 7Th Street South	Mashhad	Razavi Khorasan	Iran	24978
+DB-3555	626 Olive Street Sw	Ilopango	San Salvador	El Salvador	24981
+LB-6795	27520 Hwy 98	Torbali	Izmir	Turkey	24984
+KT-6465	2800 Spring Avn SW	Morelia	Michoacán	Mexico	24987
+GA-4725	969 Us Hwy 80 West	Bhiwandi	Maharashtra	India	24990
+DK-3090	3300 South Oates Street	Palmerston North	Manawatu-Wanganui	New Zealand	24993
+SS-10590	4310 Montgomery Hwy	Kaifeng	Henan	China	24996
+SD-10485	600 Boll Weevil Circle	Indianapolis	Indiana	United States	24999
+TS-21085	3176 South Eufaula Avenue	Thornton	Colorado	United States	25002
+RA-9945	7100 Aaron Aronov Drive	Georgetown	Kentucky	United States	25005
+JO-5145	10040 County Road 48	Auckland	Auckland	New Zealand	25008
+LW-7215	3186 Hwy 171 North	Caloundra	Queensland	Australia	25011
+RB-9645	3100 Hough Rd	Raleigh	North Carolina	United States	25014
+MV-7485	2200 South Mckenzie St	Houston	Texas	United States	25017
+BW-1200	2001 Glenn Bldv Sw	Villa Alemana	Valparaíso	Chile	25020
+CC-2610	340 East Meighan Blvd	Chesapeake	Virginia	United States	25023
+BD-1560	890 Odum Road	Sydney	New South Wales	Australia	25026
+CS-2505	1608 W Magnolia Ave	New York City	New York	United States	25029
+VT-11700	501 Willow Lane	Tlalnepantla	México	Mexico	25032
+MC-7845	170 Fort Morgan Road	São Gonçalo	Rio de Janeiro	Brazil	25035
+KH-6690	11697 US Hwy 431	Sydney	New South Wales	Australia	25038
+VS-11820	42417 Hwy 195	Columbia	Maryland	United States	25041
+NF-8475	1706 Military Street South	Singapore	Singapore	Singapore	25044
+TB-11190	1201 Hwy 31 NW	Richmond	Kentucky	United States	25047
+TS-11205	209 Lakeshore Parkway	Katowice	Silesia	Poland	25050
+TD-10995	2780 John Hawkins Pkwy	Guantánamo	Guantánamo	Cuba	25053
+EB-3750	5335 Hwy 280 South	Nairobi	Nairobi	Kenya	25056
+AH-690	1007 Red Farmer Drive	Whangarei	Northland	New Zealand	25059
+TB-11280	2900 S Mem PkwyDrake Ave	La Romana	La Romana	Dominican Republic	25062
+AM-705	11610 Memorial Pkwy South	Cambridge	England	United Kingdom	25065
+BD-1620	2200 Sparkman Drive	Carora	Lara	Venezuela	25068
+KF-6285	330 Sutton Rd	Orihuela	Valenciana	Spain	25071
+BE-1335	6140A Univ Drive	Augsburg	Bavaria	Germany	25074
+HA-4905	4206 N College Ave	Tulsa	Oklahoma	United States	25077
+ND-8370	1625 Pelham South	Fasa	Fars	Iran	25080
+AA-645	1801 Hwy 78 East	San Fernando	San Fernando	Trinidad and Tobago	25083
+CC-2430	8551 Whitfield Ave	Newcastle	New South Wales	Australia	25086
+PL-8925	8650 Madison Blvd	Mainz	Rhineland-Palatinate	Germany	25089
+SO-10335	145 Kelley Blvd	Mérida	Yucatán	Mexico	25092
+AY-555	1970 S University Blvd	Le Chesnay	Ile-de-France	France	25095
+JB-6000	6350 Cottage Hill Road	Gronau	North Rhine-Westphalia	Germany	25098
+SN-10560	101 South Beltline Highway	Newcastle	New South Wales	Australia	25101
+AH-465	2500 Dawes Road	Bengbu	Anhui	China	25104
+HW-4935	5245 Rangeline Service Rd	Manila	National Capital	Philippines	25107
+MC-7425	685 Schillinger Rd	Manila	National Capital	Philippines	25110
+BT-1680	3371 S Alabama Ave	Dublin	Dublin	Ireland	25113
+MG-7650	10710 Chantilly Pkwy	Antibes	Provence-Alpes-Côte d'Azur	France	25116
+CB-2415	3801 Eastern Blvd	New York City	New York	United States	25119
+CK-2760	6495 Atlanta Hwy	Mixco	Guatemala	Guatemala	25122
+AG-330	851 Ann St	San Francisco	California	United States	25125
+MK-8160	15445 Highway 24	Nice	Provence-Alpes-Côte d'Azur	France	25128
+NC-8625	517 West Avalon Ave	Mexico City	Distrito Federal	Mexico	25131
+MO-7950	5710 Mcfarland Blvd	Quetzaltenango	Quezaltenango	Guatemala	25134
+HF-4995	2453 2Nd Avenue East	Natal	Rio Grande do Norte	Brazil	25137
+SJ-10215	2900 Pepperrell Pkwy	Mixco	Guatemala	Guatemala	25140
+AO-810	92 Plaza Lane	Concarneau	Brittany	France	25143
+RM-9375	1537 Hwy 231 South	Philadelphia	Pennsylvania	United States	25146
+MM-8055	2181 Pelham Pkwy	Cape Town	Western Cape	South Africa	25149
+DN-3690	165 Vaughan Ln	Trier	Rhineland-Palatinate	Germany	25152
+EB-3930	969 Us Hwy 80 West	Morelia	Michoacán	Mexico	25155
+NH-8610	3300 South Oates Street	Matanzas	Matanzas	Cuba	25158
+EL-3735	4310 Montgomery Hwy	Ghent	East Flanders	Belgium	25161
+PS-8760	600 Boll Weevil Circle	Shiraz	Fars	Iran	25164
+ST-10530	3176 South Eufaula Avenue	Lakeland	Florida	United States	25167
+RH-9510	7100 Aaron Aronov Drive	Chihuahua	Chihuahua	Mexico	25170
+BD-1605	10040 County Road 48	Brentwood	California	United States	25173
+SC-10440	3186 Hwy 171 North	Wellington	Wellington	New Zealand	25176
+CG-2040	3100 Hough Rd	Solingen	North Rhine-Westphalia	Germany	25179
+TG-11310	2200 South Mckenzie St	Palmerston	Northern Territory	Australia	25182
+FO-4305	2001 Glenn Bldv Sw	Los Angeles	California	United States	25185
+CS-1950	340 East Meighan Blvd	Marrakech	Marrakech-Tensift-El Haouz	Morocco	25188
+LE-6810	890 Odum Road	Cologne	North Rhine-Westphalia	Germany	25191
+DR-2880	1608 W Magnolia Ave	Reading	England	United Kingdom	25194
+JR-5700	501 Willow Lane	Cancún	Quintana Roo	Mexico	25197
+MS-7710	170 Fort Morgan Road	Saint-Brieuc	Brittany	France	25200
+PM-8940	11697 US Hwy 431	Newcastle	New South Wales	Australia	25203
+AZ-750	42417 Hwy 195	Oakland	California	United States	25206
+AA-375	1706 Military Street South	Barakaldo	Basque Country	Spain	25209
+FM-4290	1201 Hwy 31 NW	Xinshi	Hubei	China	25212
+CR-2820	209 Lakeshore Parkway	Sofia	Sofiya-Grad	Bulgaria	25215
+VB-11745	2780 John Hawkins Pkwy	Katowice	Silesia	Poland	25218
+RH-19600	5335 Hwy 280 South	Depok	Yogyakarta	Indonesia	25221
+KH-6330	1007 Red Farmer Drive	Lucknow	Uttar Pradesh	India	25224
+ME-7725	2900 S Mem PkwyDrake Ave	Kryvyy Rih	Dnipropetrovs'k	Ukraine	25227
+FA-4230	11610 Memorial Pkwy South	Culiacán	Sinaloa	Mexico	25230
+GM-4455	2200 Sparkman Drive	San Antonio	Texas	United States	25233
+KH-6510	330 Sutton Rd	Cachan	Ile-de-France	France	25236
+CD-2790	6140A Univ Drive	Auckland	Auckland	New Zealand	25239
+NB-8580	4206 N College Ave	Carlisle	England	United Kingdom	25242
+CS-2250	1625 Pelham South	Wetzlar	Hesse	Germany	25245
+SP-10920	1801 Hwy 78 East	Casablanca	Grand Casablanca	Morocco	25248
+TH-11100	8551 Whitfield Ave	Pleasant Grove	Utah	United States	25251
+DC-3285	8650 Madison Blvd	Montenegro	Quindío	Colombia	25254
+CM-2655	145 Kelley Blvd	Manila	National Capital	Philippines	25257
+RF-9735	1970 S University Blvd	Detroit	Michigan	United States	25260
+LH-6750	6350 Cottage Hill Road	Asheville	North Carolina	United States	25263
+JM-5265	101 South Beltline Highway	Ipoh	Perak	Malaysia	25266
+CS-1845	2500 Dawes Road	Xiaogan	Hubei	China	25269
+CS-1860	5245 Rangeline Service Rd	Yuci	Shanxi	China	25272
+BT-1485	685 Schillinger Rd	Boulogne-Billancourt	Ile-de-France	France	25275
+KB-6240	3371 S Alabama Ave	Makhachkala	Dagestan	Russia	25278
+KB-6600	10710 Chantilly Pkwy	Gongzhuling	Jilin	China	25281
+LS-7230	3801 Eastern Blvd	Devonport	Tasmania	Australia	25284
+MS-7365	6495 Atlanta Hwy	Leipzig	Saxony	Germany	25287
+BG-1740	851 Ann St	Bottrop	North Rhine-Westphalia	Germany	25290
+HJ-4875	15445 Highway 24	Jember	Jawa Timur	Indonesia	25293
+LR-6915	517 West Avalon Ave	Ilopango	San Salvador	El Salvador	25296
+JW-6075	5710 Mcfarland Blvd	Luoyang	Fujian	China	25299
+DJ-3420	2453 2Nd Avenue East	Tlalpan	Distrito Federal	Mexico	25302
+SP-10650	2900 Pepperrell Pkwy	Shulan	Jilin	China	25305
+VM-21835	92 Plaza Lane	Ulm	Baden-Württemberg	Germany	25308
+CM-1815	1537 Hwy 231 South	Sheffield	England	United Kingdom	25311
+MH-8025	2181 Pelham Pkwy	Kermanshah	Kermanshah	Iran	25314
+RD-9480	165 Vaughan Ln	Monterrey	Nuevo León	Mexico	25317
+PW-9030	3700 Hwy 280-431 N	Ensenada	Baja California	Mexico	25320
+EB-4170	1903 Cobbs Ford Rd	Reynosa	Tamaulipas	Mexico	25323
+SM-10950	4180 Us Hwy 431	Guangzhou	Guangdong	China	25326
+NP-8325	13675 Hwy 43	Gongzhuling	Jilin	China	25329
+MP-8175	1095 Industrial Pkwy	Pune	Maharashtra	India	25332
+CM-2160	24833 Johnt Reidprkw	Dortmund	North Rhine-Westphalia	Germany	25335
+NP-8700	1501 Hwy 14 East	Guelma	Guelma	Algeria	25338
+BP-1185	7855 Moffett Rd	Singapore	Singapore	Singapore	25341
+SW-10755	150 Springville Station Blvd	Soyapango	San Salvador	El Salvador	25344
+AC-450	690 Hwy 78	Stockholm	Stockholm	Sweden	25347
+SE-10110	41301 US Hwy 280	Liaocheng	Shandong	China	25350
+BS-1365	214 Haynes Street	Monterrey	Nuevo León	Mexico	25353
+RM-9750	1300 Gilmer Ave	Houston	Texas	United States	25356
+BT-1395	34301 Hwy 43	Estelí	Estelí	Nicaragua	25359
+BP-1155	1420 Us 231 South	Puebla	Puebla	Mexico	25362
+GT-4635	1501 Skyland Blvd E	Innsbruck	Tyrol	Austria	25365
+CM-1935	3501 20th Av	Seville	Andalusía	Spain	25368
+RE-9405	1300 Montgomery Highway	Shantou	Guangdong	China	25371
+KS-6300	4538 Us Hwy 231	Rockford	Illinois	United States	25374
+TS-11160	2575 Us Hwy 43	Frankfurt	Hesse	Germany	25377
+ML-7395	4180 Us Hwy 431	Panama City	Panama	Panama	25380
+BF-1170	13675 Hwy 43	Nantes	Pays de la Loire	France	25383
+NS-8640	1095 Industrial Pkwy	Wellington	Wellington	New Zealand	25386
+RB-9570	24833 Johnt Reidprkw	Cabo de Santo Agostinho	Pernambuco	Brazil	25389
+FM-4380	1501 Hwy 14 East	Grenoble	Rhône-Alpes	France	25392
+AG-300	7855 Moffett Rd	Castrop-Rauxel	North Rhine-Westphalia	Germany	25395
+SW-10350	150 Springville Station Blvd	Samarinda	Kalimantan Timur	Indonesia	25398
+JR-6210	690 Hwy 78	Saint-Germain-en-Laye	Ile-de-France	France	25401
+MD-7350	41301 US Hwy 280	Dhaka	Dhaka	Bangladesh	25404
+ML-7755	214 Haynes Street	Barcelona	Catalonia	Spain	25407
+HA-4920	1300 Gilmer Ave	Baguio City	Cordillera	Philippines	25410
+AS-45	34301 Hwy 43	Cuttack	Odisha	India	25413
+BF-1215	1420 Us 231 South	Tilburg	North Brabant	Netherlands	25416
+LH-6900	1501 Skyland Blvd E	Parla	Madrid	Spain	25419
+DP-3390	3501 20th Av	Leeds	England	United Kingdom	25422
+DH-3075	1300 Montgomery Highway	Ludhiana	Punjab	India	25425
+HM-4860	4538 Us Hwy 231	Sydney	New South Wales	Australia	25428
+SB-10185	2575 Us Hwy 43	Philadelphia	Pennsylvania	United States	25431
+RF-9840	301 Massachusetts Ave	Xinzhou	Shanxi	China	25434
+SV-10935	780 Lynnway	Rasht	Gilan	Iran	25437
+CS-2355	70 Pleasant Valley Street	Seville	Andalusía	Spain	25440
+GM-4695	830 Curran Memorial Hwy	Glendale	Arizona	United States	25443
+AT-435	1470 S Washington St	Jakarta	Jakarta	Indonesia	25446
+MC-8130	506 State Road	Marseille	Provence-Alpes-Côte d'Azur	France	25449
+FP-4320	742 Main Street	La Rochelle	Poitou-Charentes	France	25452
+DK-3225	72 Main St	Cairo	Al Qahirah	Egypt	25455
+VG-11790	200 Otis Street	Dieppe	Upper Normandy	France	25458
+LF-7185	180 North King Street	Long Beach	New York	United States	25461
+NC-8535	555 East Main St	Soledad	Atlántico	Colombia	25464
+DB-3405	555 Hubbard Ave-Suite 12	Jakarta	Jakarta	Indonesia	25467
+MH-8115	300 Colony Place	Ramat Aviv	Tel Aviv	Israel	25470
+SA-10830	301 Falls Blvd	Khulna	Khulna	Bangladesh	25473
+JK-5640	36 Paramount Drive	Paulista	Pernambuco	Brazil	25476
+VF-11715	450 Highland Ave	Wollongong	New South Wales	Australia	25479
+VW-11775	1180 Fall River Avenue	Wagga Wagga	New South Wales	Australia	25482
+SN-10710	1105 Boston Road	Wagga Wagga	New South Wales	Australia	25485
+MS-7980	100 Charlton Road	Hamilton	Waikato	New Zealand	25488
+AD-180	262 Swansea Mall Dr	Lunel	Languedoc-Roussillon	France	25491
+MC-8100	333 Main Street	Cajazeiras	Paraíba	Brazil	25494
+JB-5925	550 Providence Hwy	Whangarei	Northland	New Zealand	25497
+JC-5340	352 Palmer Road	Laiyang	Shandong	China	25500
+MF-7665	3005 Cranberry Hwy Rt 6 28	Pretoria	Gauteng	South Africa	25503
+RP-9270	250 Rt 59	Seattle	Washington	United States	25506
+PF-9120	141 Washington Ave Extension	Tangier	Tanger-Tétouan	Morocco	25509
+DK-2895	13858 Rt 31 W	Guyancourt	Ile-de-France	France	25512
+RW-9630	2055 Niagara Falls Blvd	Treviso	Veneto	Italy	25515
+TM-11490	101 Sanford Farm Shpg Center	Stockholm	Stockholm	Sweden	25518
+Co-2640	297 Grant Avenue	Charlotte	North Carolina	United States	25521
+EM-3810	4133 Veterans Memorial Drive	Sydney	New South Wales	Australia	25524
+JK-6090	6265 Brockport Spencerport Rd	Zamora	Castile and León	Spain	25527
+JH-5430	5399 W Genesse St	New York City	New York	United States	25530
+AR-405	3191 County rd 10	Dallas	Texas	United States	25533
+TZ-11580	30 Catskill	Lagos	Lagos	Nigeria	25536
+BG-1035	161 Centereach Mall	Ninghai	Shandong	China	25539
+PS-9045	3018 East Ave	Bogor	Jawa Barat	Indonesia	25542
+MS-7770	100 Thruway Plaza	Nancy	Lorraine	France	25545
+SS-10875	8064 Brewerton Rd	Namur	Namur	Belgium	25548
+DB-2970	5033 Transit Road	Lille	Nord-Pas-de-Calais	France	25551
+SS-10515	3949 Route 31	Singapore	Singapore	Singapore	25554
+AW-930	139 Merchant Place	Bello	Antioquia	Colombia	25557
+PK-8910	85 Crooked Hill Road	Chimaltenango	Chimaltenango	Guatemala	25560
+GM-4440	872 Route 13	Mixco	Guatemala	Guatemala	25563
+CY-2745	279 Troy Road	Toronto	Ontario	Canada	25566
+RW-9690	2465 Hempstead Turnpike	Ninghai	Shandong	China	25569
+CC-2100	6438 Basile Rowe	Burnley	England	United Kingdom	25572
+KD-6345	25737 US Rt 11	Nagpur	Maharashtra	India	25575
+KN-6390	901 Route 110	El Prat de Llobregat	Catalonia	Spain	25578
+GT-4710	2400 Route 9	Los Angeles	California	United States	25581
+TS-11085	10401 Bennett Road	Pematangsiantar	Sumatera Utara	Indonesia	25584
+RR-9525	1818 State Route 3	Albacete	Castile-La Mancha	Spain	25587
+MT-7815	4300 Lakeville Road	New York City	New York	United States	25590
+JA-5970	990 Route 5 20	San Francisco	California	United States	25593
+CB-2535	311 RT 9W	Nantes	Pays de la Loire	France	25596
+AP-720	200 Dutch Meadows Ln	Santa Clara	Villa Clara	Cuba	25599
+SP-10860	100 Elm Ridge Center Dr	Maringá	Parana	Brazil	25602
+IL-5100	1549 Rt 9	San Diego	California	United States	25605
+VD-11670	5360 Southwestern Blvd	Cairo	Al Qahirah	Egypt	25608
+EH-3765	103 North Caroline St	Osorno	Los Lagos	Chile	25611
+BS-1755	1000 State Route 36	Brindisi	Apulia	Italy	25614
+HL-5040	1400 County Rd 64	Daqing	Heilongjiang	China	25617
+CA-2310	135 Fairgrounds Memorial Pkwy	Seattle	Washington	United States	25620
+AC-420	2 Gannett Dr	Surabaya	Jawa Timur	Indonesia	25623
+CC-2145	233 5th Ave Ext	Monterrey	Nuevo León	Mexico	25626
+KB-6585	601 Frank Stottile Blvd	Tijuana	Baja California	Mexico	25629
+JG-5115	350 E Fairmount Ave	Woking	England	United Kingdom	25632
+GK-4620	4975 Transit Rd	Hamburg	Hamburg	Germany	25635
+FW-4395	579 Troy-Schenectady Road	Cape Town	Western Cape	South Africa	25638
+VM-11685	5783 So Transit Road	Doncaster	England	United Kingdom	25641
+RB-9360	7155 State Rt 12 S	Manila	National Capital	Philippines	25644
+AG-495	425 Route 31	Fremont	Nebraska	United States	25647
+IM-5070	3222 State Rt 11	Santa Catarina	Nuevo León	Mexico	25650
+MC-7635	200 Sunrise Mall	Shantou	Guangdong	China	25653
+SH-10635	43 Stephenville St	Toledo	Ohio	United States	25656
+KC-6540	750 Middle Country Road	Angers	Pays de la Loire	France	25659
+QJ-9255	470 Route 211 East	Annaba	Annaba	Algeria	25662
+JK-5325	3133 E Main St	Medellín	Antioquia	Colombia	25665
+AI-855	288 Larkin	Yangon	Yangon	Myanmar (Burma)	25668
+SC-10095	41 Anawana Lake Road	León	León	Nicaragua	25671
+CT-1995	4765 Commercial Drive	Jizan	Jizan	Saudi Arabia	25674
+PJ-8835	1201 Rt 300	Houston	Texas	United States	25677
+JM-6195	255 W Main St	Yuci	Shanxi	China	25680
+CV-2295	120 Commercial Parkway	Utrecht	Utrecht	Netherlands	25683
+DB-3120	1400 Farmington Ave	Nagasaki	Nagasaki	Japan	25686
+NL-8310	161 Berlin Road	Tehran	Tehran	Iran	25689
+BB-1545	67 Newton Rd	San Salvador	San Salvador	El Salvador	25692
+BV-1245	656 New Haven Ave	Suzhou	Anhui	China	25695
+BS-1380	69 Prospect Hill Road	Albany	Western Australia	Australia	25698
+KA-6525	150 Gold Star Hwy	Avadi	Tamil Nadu	India	25701
+RB-9795	900 Boston Post Road	Bogor	Jawa Barat	Indonesia	25704
+EP-3915	2300 Dixwell Ave	Las Pinas	National Capital	Philippines	25707
+JS-5595	495 Flatbush Ave	Managua	Managua	Nicaragua	25710
+JE-5610	180 River Rd	London	England	United Kingdom	25713
+CJ-1875	420 Buckland Hills Dr	Henderson	Kentucky	United States	25716
+TH-11550	1365 Boston Post Road	Fort Worth	Texas	United States	25719
+HR-4830	1100 New Haven Road	Brisbane	Queensland	Australia	25722
+KC-6675	315 Foxon Blvd	Westminster	California	United States	25725
+LS-7200	164 Danbury Rd	Mexico City	Distrito Federal	Mexico	25728
+DL-2925	3164 Berlin Turnpike	London	England	United Kingdom	25731
+WB-11850	474 Boston Post Road	Shah Alam	Selangor	Malaysia	25734
+SJ-10500	650 Main Ave	Birmingham	England	United Kingdom	25737
+DF-3135	680 Connecticut Avenue	Rach Gia	Kiên Giang	Vietnam	25740
+SZ-10035	220 Salem Turnpike	Baghdad	Baghdad	Iraq	25743
+CK-2205	655 Boston Post Rd	Brisbane	Queensland	Australia	25746
+TM-11010	625 School Street	Dongguan	Guangdong	China	25749
+FC-4335	80 Town Line Rd	Fontainebleau	Ile-de-France	France	25752
+GB-4530	465 Bridgeport Avenue	Santa Cruz de la Sierra	Santa Cruz	Bolivia	25755
+BF-1275	235 Queen St	Surat	Gujarat	India	25758
+NB-8655	150 Barnum Avenue Cutoff	Donets'k	Donetsk	Ukraine	25761
+EH-3990	970 Torringford Street	Jacksonville	North Carolina	United States	25764
+SP-10545	844 No Colony Road	New York City	New York	United States	25767
+Dp-3240	910 Wolcott St	Cardiff	Wales	United Kingdom	25770
+LW-6825	155 Waterford Parkway No	Spokane	Washington	United States	25773
+EN-3780	515 Sawmill Road	Dar es Salaam	Dar Es Salaam	Tanzania	25776
+TZ-11445	2473 Hackworth Road	Managua	Managua	Nicaragua	25779
+KD-6615	630 Coonial Promenade Pkwy	San Salvador	San Salvador	El Salvador	25782
+LD-7005	2643 Hwy 280 West	Tianjin	Tianjin	China	25785
+CL-1890	540 West Bypass	Riyadh	Ar Riyad	Saudi Arabia	25788
+HG-4965	5560 Mcclellan Blvd	Jakarta	Jakarta	Indonesia	25791
+BO-1350	1450 No Brindlee Mtn Pkwy	Villeurbanne	Rhône-Alpes	France	25794
+YC-11895	1011 US Hwy 72 East	Nicolás Romero	México	Mexico	25797
+JM-5535	973 Gilbert Ferry Road Se	Chililabombwe	Copperbelt	Zambia	25800
+RA-9885	1717 South College Street	Singapore	Singapore	Singapore	25803
+KM-6660	701 Mcmeans Ave	Newcastle	New South Wales	Australia	25806
+DW-3585	750 Academy Drive	Baltimore	Maryland	United States	25809
+TS-11655	312 Palisades Blvd	Singapore	Singapore	Singapore	25812
+RK-9300	1600 Montclair Rd	Nanterre	Ile-de-France	France	25815
+SC-10020	5919 Trussville Crossings Pkwy	Shihezi	Xinjiang Uygur	China	25818
+AG-390	9248 Parkway East	Givors	Rhône-Alpes	France	25821
+AT-735	1972 Hwy 431	Mexico City	Distrito Federal	Mexico	25824
+JW-5955	10675 Hwy 5	Detroit	Michigan	United States	25827
+AF-885	2041 Douglas Avenue	Carrefour	Ouest	Haiti	25830
+KB-6405	5100 Hwy 31	Schwerin	Mecklenburg-Vorpommern	Germany	25833
+BP-1290	1916 Center Point Rd	Bradford	England	United Kingdom	25836
+OT-8730	1950 W Main St	Brasov	Brasov	Romania	25839
+LS-6975	16077 Highway 280	Arbil	Arbil	Iraq	25842
+GD-4590	1415 7Th Street South	Dhaka	Dhaka	Bangladesh	25845
+MP-7965	626 Olive Street Sw	Marietta	Georgia	United States	25848
+DS-3180	27520 Hwy 98	Perth	Western Australia	Australia	25851
+ED-3885	2800 Spring Avn SW	Brisbane	Queensland	Australia	25854
+NZ-8565	969 Us Hwy 80 West	Vichy	Auvergne	France	25857
+JG-5805	3300 South Oates Street	Dortmund	North Rhine-Westphalia	Germany	25860
+EB-3870	4310 Montgomery Hwy	Munich	Bavaria	Germany	25863
+BG-1695	600 Boll Weevil Circle	Kure	Hiroshima	Japan	25866
+SR-10425	3176 South Eufaula Avenue	Chicago	Illinois	United States	25869
+AS-90	7100 Aaron Aronov Drive	Derby	England	United Kingdom	25872
+SP-10620	10040 County Road 48	Nairobi	Nairobi	Kenya	25875
+SH-10395	3186 Hwy 171 North	Quito	Pichincha	Ecuador	25878
+AR-540	3100 Hough Rd	Arnhem	Gelderland	Netherlands	25881
+CM-2235	2200 South Mckenzie St	Brasília	Federal District	Brazil	25884
+AS-225	2001 Glenn Bldv Sw	Makhachkala	Dagestan	Russia	25887
+RA-9915	340 East Meighan Blvd	Paris	Ile-de-France	France	25890
+RS-9420	890 Odum Road	Columbus	Ohio	United States	25893
+TN-11040	1608 W Magnolia Ave	Dhaka	Dhaka	Bangladesh	25896
+VP-11730	501 Willow Lane	Cairns	Queensland	Australia	25899
+KW-6435	170 Fort Morgan Road	Leeds	England	United Kingdom	25902
+PP-8955	11697 US Hwy 431	Tlalpan	Distrito Federal	Mexico	25905
+SC-10575	42417 Hwy 195	San Diego	California	United States	25908
+ML-7410	1706 Military Street South	Aprilia	Lazio	Italy	25911
+CJ-2010	1201 Hwy 31 NW	Rome	Lazio	Italy	25914
+FG-4260	209 Lakeshore Parkway	Waitakere	Auckland	New Zealand	25917
+TW-11025	2780 John Hawkins Pkwy	Devonport	Tasmania	Australia	25920
+DB-3210	5335 Hwy 280 South	Fargo	North Dakota	United States	25923
+EA-4035	1007 Red Farmer Drive	New York City	New York	United States	25926
+EM-3825	2900 S Mem PkwyDrake Ave	Dhaka	Dhaka	Bangladesh	25929
+TB-11355	11610 Memorial Pkwy South	Milpa Alta	Distrito Federal	Mexico	25932
+ME-8010	2200 Sparkman Drive	Aurora	Colorado	United States	25935
+JE-5715	330 Sutton Rd	San Francisco	California	United States	25938
+MC-7605	6140A Univ Drive	Paris	Ile-de-France	France	25941
+FH-4350	4206 N College Ave	Hanoi	Th? Dô Hà N?i	Vietnam	25944
+BC-1125	1625 Pelham South	Allahabad	Uttar Pradesh	India	25947
+MG-7875	1801 Hwy 78 East	Genk	Limburg	Belgium	25950
+FH-4275	8551 Whitfield Ave	Castanhal	Pará	Brazil	25953
+DK-2985	8650 Madison Blvd	Surabaya	Jawa Timur	Indonesia	25956
+BK-1260	145 Kelley Blvd	New York City	New York	United States	25959
+MP-7470	1970 S University Blvd	Brisbane	Queensland	Australia	25962
+SC-10800	6350 Cottage Hill Road	Villeurbanne	Rhône-Alpes	France	31245
+BD-1500	101 South Beltline Highway	Houston	Texas	United States	34785
+RC-9825	2500 Dawes Road	La Spezia	Liguria	Italy	40234
+MG-7890	5245 Rangeline Service Rd	Jiangyan	Jiangsu	China	37325
+ZC-11910	685 Schillinger Rd	Wilmington	Delaware	United States	28900

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1800
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Hotel_Booking", "Hotel_Booking\Hotel_Booking.dtproj", "{39DAADEC-B9A0-4BE6-A663-9F95BE296CCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39DAADEC-B9A0-4BE6-A663-9F95BE296CCB}.Development|Default.ActiveCfg = Development
+		{39DAADEC-B9A0-4BE6-A663-9F95BE296CCB}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C19A19F-EAC7-4D89-9C54-DC16D53C6739}
+	EndGlobalSection
+EndGlobal

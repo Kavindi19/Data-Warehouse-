@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<DataProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.microsoft.com/sqlserver/2008/DataDebugger/">
+  <ProfileVersion>1.0</ProfileVersion>
+  <DataSources>
+    <DtsDataSource ID="{8B177617-158F-4446-92AE-878FCC66624E}" Name="Booking_Profiling_Results">
+      <DtsConnectionManagerID>Booking_Profiling_Results</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{C769D8D6-1852-4996-837A-32A4F6441AA6}" Name="Customer_Profiling_Results">
+      <DtsConnectionManagerID>Customer_Profiling_Results</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{4DEE7492-77B0-41FA-AE86-C2E6557CD766}" Name="CustomerAddress_Profiling_Results">
+      <DtsConnectionManagerID>CustomerAddress_Profiling_Results</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{CB5A96E9-C88A-461D-8DF1-5BE0682BDED8}" Name="CustomerType_Profiling_Results">
+      <DtsConnectionManagerID>CustomerType_Profiling_Results</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{8DAD0A41-3BBA-4489-BCD8-2E21384D1CEA}" Name="Hotel_Profiling_Results">
+      <DtsConnectionManagerID>Hotel_Profiling_Results</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{2C9B5D24-2580-4E77-B812-5F25E1F55248}" Name="KAVINDI-M\SQLEXPRESS.Hotel_Booking_Staging">
+      <DtsConnectionManagerID>KAVINDI-M\SQLEXPRESS.Hotel_Booking_Staging</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{E63AE7B4-7231-49F5-A521-16011ADE2FE2}" Name="MenuType_Profiling_Results">
+      <DtsConnectionManagerID>MenuType_Profiling_Results</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{4E16B0D6-06E1-4FE4-AB5F-C9C7BF3FAA7A}" Name="Owner_Profiling_Results">
+      <DtsConnectionManagerID>Owner_Profiling_Results</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{6174D724-9434-4B32-8679-004C272BCD04}" Name="RoomType_Profiling_Results">
+      <DtsConnectionManagerID>RoomType_Profiling_Results</DtsConnectionManagerID>
+    </DtsDataSource>
+  </DataSources>
+  <DataProfileInput>
+    <ProfileMode>Exact</ProfileMode>
+    <Timeout>0</Timeout>
+    <Requests>
+      <ColumnNullRatioProfileRequest ID="NullRatioReq">
+        <DataSourceID>{2C9B5D24-2580-4E77-B812-5F25E1F55248}</DataSourceID>
+        <Table Schema="dbo" Table="StgCustomerType" />
+        <Column IsWildCard="true" />
+      </ColumnNullRatioProfileRequest>
+      <ColumnStatisticsProfileRequest ID="StatisticsReq">
+        <DataSourceID>{2C9B5D24-2580-4E77-B812-5F25E1F55248}</DataSourceID>
+        <Table Schema="dbo" Table="StgCustomerType" />
+        <Column IsWildCard="true" />
+      </ColumnStatisticsProfileRequest>
+      <ColumnLengthDistributionProfileRequest ID="LengthDistReq">
+        <DataSourceID>{2C9B5D24-2580-4E77-B812-5F25E1F55248}</DataSourceID>
+        <Table Schema="dbo" Table="StgCustomerType" />
+        <Column IsWildCard="true" />
+        <IgnoreLeadingSpace>false</IgnoreLeadingSpace>
+        <IgnoreTrailingSpace>true</IgnoreTrailingSpace>
+      </ColumnLengthDistributionProfileRequest>
+      <ColumnValueDistributionProfileRequest ID="ValueDistReq">
+        <DataSourceID>{2C9B5D24-2580-4E77-B812-5F25E1F55248}</DataSourceID>
+        <Table Schema="dbo" Table="StgCustomerType" />
+        <Column IsWildCard="true" />
+        <Option>FrequentValues</Option>
+        <FrequentValueThreshold>0.001</FrequentValueThreshold>
+      </ColumnValueDistributionProfileRequest>
+      <CandidateKeyProfileRequest ID="KeyReq">
+        <DataSourceID>{2C9B5D24-2580-4E77-B812-5F25E1F55248}</DataSourceID>
+        <Table Schema="dbo" Table="StgCustomerType" />
+        <KeyColumns>
+          <Column IsWildCard="true" />
+        </KeyColumns>
+        <ThresholdSetting>Specified</ThresholdSetting>
+        <KeyStrengthThreshold>0.95</KeyStrengthThreshold>
+        <VerifyOutputInFastMode>false</VerifyOutputInFastMode>
+        <MaxNumberOfViolations>100</MaxNumberOfViolations>
+      </CandidateKeyProfileRequest>
+    </Requests>
+  </DataProfileInput>
+  <DataProfileOutput>
+    <Profiles>
+      <ColumnNullRatioProfile ProfileRequestID="NullRatioReq" IsExact="true">
+        <DataSourceID>{2C9B5D24-2580-4E77-B812-5F25E1F55248}</DataSourceID>
+        <Table DataSource="KAVINDI-M\SQLEXPRESS" Database="Hotel_Booking_Staging" Schema="dbo" Table="StgCustomerType" RowCount="4" />
+        <Column Name="CustomerTypeId" SqlDbType="Int" MaxLength="0" Precision="10" Scale="0" LCID="-1" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NullCount>0</NullCount>
+      </ColumnNullRatioProfile>
+      <ColumnNullRatioProfile ProfileRequestID="NullRatioReq" IsExact="true">
+        <DataSourceID>{2C9B5D24-2580-4E77-B812-5F25E1F55248}</DataSourceID>
+        <Table DataSource="KAVINDI-M\SQLEXPRESS" Database="Hotel_Booking_Staging" Schema="dbo" Table="StgCustomerType" RowCount="4" />
+        <Column Name="CustomerType" SqlDbType="NVarChar" MaxLength="255" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NullCount>0</NullCount>
+      </ColumnNullRatioProfile>
+      <ColumnStatisticsProfile IsExact="true" ProfileRequestID="StatisticsReq">
+        <DataSourceID>{2C9B5D24-2580-4E77-B812-5F25E1F55248}</DataSourceID>
+        <Table DataSource="KAVINDI-M\SQLEXPRESS" Database="Hotel_Booking_Staging" Schema="dbo" Table="StgCustomerType" RowCount="4" />
+        <Column Name="CustomerTypeId" SqlDbType="Int" MaxLength="0" Precision="10" Scale="0" LCID="-1" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <MinValue>1</MinValue>
+        <MaxValue>4</MaxValue>
+        <Mean>2.5</Mean>
+        <StdDev>1.11803398874989</StdDev>
+      </ColumnStatisticsProfile>
+      <ColumnLengthDistributionProfile ProfileRequestID="LengthDistReq" IsExact="true">
+        <DataSourceID>{2C9B5D24-2580-4E77-B812-5F25E1F55248}</DataSourceID>
+        <Table DataSource="KAVINDI-M\SQLEXPRESS" Database="Hotel_Booking_Staging" Schema="dbo" Table="StgCustomerType" RowCount="4" />
+        <Column Name="CustomerType" SqlDbType="NVarChar" MaxLength="255" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <IgnoreLeadingSpace>false</IgnoreLeadingSpace>
+        <IgnoreTrailingSpace>true</IgnoreTrailingSpace>
+        <MinLength>5</MinLength>
+        <MaxLength>15</MaxLength>
+        <LengthDistribution>
+          <LengthDistributionItem>
+            <Length>5</Length>
+            <Count>1</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>8</Length>
+            <Count>1</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>9</Length>
+            <Count>1</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>15</Length>
+            <Count>1</Count>
+          </LengthDistributionItem>
+        </LengthDistribution>
+      </ColumnLengthDistributionProfile>
+      <CandidateKeyProfile IsExact="true" ProfileRequestID="KeyReq">
+        <DataSourceID>{2C9B5D24-2580-4E77-B812-5F25E1F55248}</DataSourceID>
+        <Table DataSource="KAVINDI-M\SQLEXPRESS" Database="Hotel_Booking_Staging" Schema="dbo" Table="StgCustomerType" RowCount="4" />
+        <KeyColumns>
+          <Column Name="CustomerTypeId" SqlDbType="Int" MaxLength="0" Precision="10" Scale="0" LCID="-1" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        </KeyColumns>
+        <IsExactKey>true</IsExactKey>
+      </CandidateKeyProfile>
+      <ColumnValueDistributionProfile IsExact="true" ProfileRequestID="ValueDistReq">
+        <DataSourceID>{2C9B5D24-2580-4E77-B812-5F25E1F55248}</DataSourceID>
+        <Table DataSource="KAVINDI-M\SQLEXPRESS" Database="Hotel_Booking_Staging" Schema="dbo" Table="StgCustomerType" RowCount="4" />
+        <Column Name="CustomerTypeId" SqlDbType="Int" MaxLength="0" Precision="10" Scale="0" LCID="-1" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NumberOfDistinctValues>4</NumberOfDistinctValues>
+        <ValueDistribution>
+          <ValueDistributionItem>
+            <Value>1</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>3</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>4</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+        </ValueDistribution>
+      </ColumnValueDistributionProfile>
+      <CandidateKeyProfile IsExact="true" ProfileRequestID="KeyReq">
+        <DataSourceID>{2C9B5D24-2580-4E77-B812-5F25E1F55248}</DataSourceID>
+        <Table DataSource="KAVINDI-M\SQLEXPRESS" Database="Hotel_Booking_Staging" Schema="dbo" Table="StgCustomerType" RowCount="4" />
+        <KeyColumns>
+          <Column Name="CustomerType" SqlDbType="NVarChar" MaxLength="255" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        </KeyColumns>
+        <IsExactKey>true</IsExactKey>
+      </CandidateKeyProfile>
+      <ColumnValueDistributionProfile IsExact="true" ProfileRequestID="ValueDistReq">
+        <DataSourceID>{2C9B5D24-2580-4E77-B812-5F25E1F55248}</DataSourceID>
+        <Table DataSource="KAVINDI-M\SQLEXPRESS" Database="Hotel_Booking_Staging" Schema="dbo" Table="StgCustomerType" RowCount="4" />
+        <Column Name="CustomerType" SqlDbType="NVarChar" MaxLength="255" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NumberOfDistinctValues>4</NumberOfDistinctValues>
+        <ValueDistribution>
+          <ValueDistributionItem>
+            <Value>Contract</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>Group</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>Transient</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>Transient-Party</Value>
+            <Count>1</Count>
+          </ValueDistributionItem>
+        </ValueDistribution>
+      </ColumnValueDistributionProfile>
+    </Profiles>
+  </DataProfileOutput>
+</DataProfile>
